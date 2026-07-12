@@ -16,14 +16,14 @@ function draw() {
   // to create a ellipse -> ellipse(X position, Y posotion, width, height)
 
   // Challenge 2: A face using circle() function
-circle(600,300,300,300)
-ellipse(600,350,160,75)
-circle(540,250,40,40)
-circle(680,250,40,40)
-circle(440,140,150,150)
-circle(760,140,150,150)
+// circle(600,300,300,300)
+// ellipse(600,350,160,75)
+// circle(540,250,40,40)
+// circle(680,250,40,40)
+// circle(440,140,150,150)
+// circle(760,140,150,150)
   // Challenge 3: A house using rect() function
-
+rect
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
