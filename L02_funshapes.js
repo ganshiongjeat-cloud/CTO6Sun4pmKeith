@@ -31,11 +31,12 @@ function draw() {
 // circle(800,220,80,80)
   // Challenge 4: A rocketship using triangle() function
   // Challenge 5: A square face using quad() function
+rect(200,140,600,600)
 ellipse(200,300,70,40)
 ellipse(800,300,70,40)
 rect(125,280,80,40)
 rect(800,280,80,40)
-rect(200,140,600,600)
+
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
