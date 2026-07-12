@@ -37,7 +37,8 @@ ellipse(800,300,70,40)
 rect(125,280,80,40)
 rect(800,280,80,40)
 circle(360,250,50,50)
-circle(700,250,50,50)
+circle(650,250,50,50)
+quad()
 
   // Challenge 6: Add some colours to the drawings in the above challenges
 
