@@ -35,7 +35,7 @@ ellipse(200,300,70,40)
 ellipse(800,300,70,40)
 rect(125,280,80,40)
 rect(800,280,80,40)
-rect(230,140,600,600)
+rect(200,140,600,600)
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
