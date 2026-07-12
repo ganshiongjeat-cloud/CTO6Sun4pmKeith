@@ -27,6 +27,7 @@ rect(300,100,700,500)
 rect(600,450,100,180)
 ellipse(670,540,50,40)
 rect(300,100,700,280)
+circle()
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
