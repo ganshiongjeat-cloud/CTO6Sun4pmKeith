@@ -16,7 +16,7 @@ function draw() {
   // to create a ellipse -> ellipse(X position, Y posotion, width, height)
 
   // Challenge 2: A face using circle() function
-CSSNumericValue()
+circle
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
