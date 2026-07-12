@@ -7,6 +7,7 @@ function setup(){
 }
 
 function draw() {
+  ellipse()
   // Challenge 1: An eye using ellipse() function
   // to create a ellipse -> ellipse(X position, Y posotion, width, height)
 
