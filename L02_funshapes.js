@@ -7,9 +7,10 @@ function setup(){
 }
 
 function draw() {
-  ellipse(600, 300, 600, 300)
-  ellipse(600,300,150,300)
-  ellipse(600,300,150,100)
+  
+  // ellipse(600, 300, 600, 300)
+  // ellipse(600,300,150,300)
+  // ellipse(600,300,150,100)
   // Challenge 1: An eye using ellipse() function
   // to create a ellipse -> ellipse(X position, Y posotion, width, height)
 
