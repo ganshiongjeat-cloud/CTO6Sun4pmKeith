@@ -21,7 +21,7 @@ ellipse(600,350,160,75)
 circle(540,250,40,40)
 circle(680,250,40,40)
 circle(440,140,150,150)
-circle(880,140,150,150)
+circle(780,140,150,150)
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
