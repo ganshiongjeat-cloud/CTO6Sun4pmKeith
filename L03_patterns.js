@@ -19,7 +19,7 @@ function draw() {
   circle(525,200,100);
 
   for(let i =0; i<4; i++){
-    circle(75 + (i*),200,100)
+    circle(75 + (i*50),200,100)
   }
   // Task 1: Colour Gradient
 
