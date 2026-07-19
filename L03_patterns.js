@@ -46,7 +46,7 @@ function draw() {
     }else{
       fill(255)
     }
-    circle(spacing + )
+    circle(spacing + i*spacing,200,40)
   }
 
   // Task 3: Row of Circles
