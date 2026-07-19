@@ -21,7 +21,7 @@ function draw() {
   for(let i =0; i<8; i++){
     fill(0,240 + (i*80),200)
     // circle(75 + (i*150),200,100)
-    square(75 + (i*50),200,80)
+    square(75 + (i*50),200,50)
   }
   // Task 1: Colour Gradient
 
