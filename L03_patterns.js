@@ -1,5 +1,3 @@
-let ball;
-const 
 
 function setup() {
     createCanvas(600, 400);
