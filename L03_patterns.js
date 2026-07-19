@@ -24,7 +24,8 @@ function draw() {
     square(75 + (i*10),200,10)
 
   }
-  
+  for(let i=0;i<8;i++){}
+
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
