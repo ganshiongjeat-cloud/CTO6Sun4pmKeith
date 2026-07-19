@@ -50,9 +50,9 @@ function draw() {
   }
 
   // Task 3: Row of Circles
-for(let i=0;i<5;i++){
-  circle(15 +i*30,15,30)
-}
+// for(let i=0;i<5;i++){
+//   circle(15 +i*30,15,30)
+// }
 let circlediameter = 30
 let halfwidth = width/2
 let circlewidth = 30*5
