@@ -50,8 +50,8 @@ function draw() {
   }
 
   // Task 3: Row of Circles
-for(let i=30;i<5;i++){
-  circle()
+for(let i=0;i<5;i++){
+  circle(1)
 }
   // Task 4: Grid of Circles
 }
