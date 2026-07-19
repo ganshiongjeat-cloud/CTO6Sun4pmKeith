@@ -1,3 +1,5 @@
+
+
 function setup() {
     createCanvas(600, 400);
     background(220);
@@ -14,7 +16,7 @@ function draw() {
 
   fill(0,0,200);
   circle(375,200,100);
-  
+
   fill(200,200,200);
   circle(525,200,100);
   // Task 1: Colour Gradient
