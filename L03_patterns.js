@@ -18,10 +18,10 @@ function draw() {
   // fill(200,200,200);
   // circle(525,200,100);
 
-  for(let i =0; i<4; i++){
+  for(let i =0; i<8; i++){
     fill(0,240 + (i*80),200)
     // circle(75 + (i*150),200,100)
-    square(75 + (i*100),200,80)
+    square(75 + (i*50),200,80)
   }
   // Task 1: Colour Gradient
 
