@@ -33,6 +33,7 @@ function draw() {
     }
 
   }
+  circle
 
   // Task 1: Colour Gradient
 
