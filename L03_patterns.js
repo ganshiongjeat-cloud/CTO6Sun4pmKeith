@@ -61,6 +61,8 @@ let gap = halfwidth - halfcirclewidth
 let radius = circlediameter/2
 let startX = 0;
 startX = radius
-
+for(let i=0;i<5;i++){
+  
+}
   // Task 4: Grid of Circles
 }
