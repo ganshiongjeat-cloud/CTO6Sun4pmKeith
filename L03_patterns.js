@@ -62,7 +62,7 @@ let radius = circlediameter/2
 let startX = 0;
 startX = radius
 for(let i=0;i<5;i++){
-  
+  circle(startX)
 }
   // Task 4: Grid of Circles
 }
