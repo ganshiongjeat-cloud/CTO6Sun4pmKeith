@@ -19,7 +19,7 @@ function draw() {
   // circle(525,200,100);
 
   for(let i =0; i<8; i++){
-    fill(0,240 + (i*80),200)
+    fill(i*10)
     // circle(75 + (i*150),200,100)
     square(75 + (i*50),200,50)
   }
