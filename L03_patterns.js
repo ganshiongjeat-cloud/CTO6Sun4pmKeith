@@ -55,6 +55,6 @@ for(let i=0;i<5;i++){
 }
 let circlediameter = 30
 let halfwidth = width/2
-let circlewidth
+let halfcirclewidth = circle
   // Task 4: Grid of Circles
 }
