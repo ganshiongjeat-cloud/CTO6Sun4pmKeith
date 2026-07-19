@@ -39,6 +39,14 @@ function draw() {
 
   // Task 2: Colour Loop
   let spacing =50
+    for(let i=0;i<8;i++){
+    if(i%2==0){
+      fill(0);
+    
+    }else{
+      fill(255)
+    }
+  }
 
   // Task 3: Row of Circles
 
