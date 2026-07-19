@@ -18,8 +18,8 @@ function draw() {
   // fill(200,200,200);
   // circle(525,200,100);
 
-  for(let i =0; i<30; i++){
-    fill(i*10)
+  for(let i =0; i<40; i++){
+    fill(i*5)
     // circle(75 + (i*150),200,100)
     square(75 + (i*10),200,10)
   }
