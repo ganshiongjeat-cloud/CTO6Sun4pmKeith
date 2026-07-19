@@ -46,6 +46,7 @@ function draw() {
     }else{
       fill(255)
     }
+    CSSNumericValue()
   }
 
   // Task 3: Row of Circles
