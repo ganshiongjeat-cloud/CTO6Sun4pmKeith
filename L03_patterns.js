@@ -22,6 +22,7 @@ function draw() {
     fill(i*5)
     // circle(75 + (i*150),200,100)
     square(75 + (i*10),200,10)
+
   }
   // Task 1: Colour Gradient
 
