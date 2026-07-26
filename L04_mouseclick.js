@@ -20,5 +20,5 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    shapecolour = 0 ;
+    
 }
