@@ -71,6 +71,6 @@ let totalwidth = numcircles * circlediameter;
 let startX = (width - totalwidth) / 2 + circlediameter / 2;
 let startY = (height - totalwidth) / 2 + circlediameter / 2;
 for (let row = 0; row < numcircle; row++)
-  let rowY = startY 
+  let rowY = startY + (circlediameter * row)
 }
 
