@@ -68,6 +68,6 @@ for(let i=0;i<5;i++){
 let circlediameter = 30;
 let numcircle = 5;
 let totalwidth = numcircles * circlediameter;
-let startX = (width - totalwidth)
+let startX = (width - totalwidth) / 2 + C
 }
 
