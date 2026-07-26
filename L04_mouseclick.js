@@ -1,13 +1,13 @@
 // write your codes here
 let shapecolour = 'blue';
 function setup(){
-    createcanvas(600, 400);
+    createcanvas(600,400);
     background(220);
 }
 
 function draw(){
     fill(shapecolour);
-    circle(300, 200,300);
+    circle(300,200,300);
 }
 
 function mousePressed(){
