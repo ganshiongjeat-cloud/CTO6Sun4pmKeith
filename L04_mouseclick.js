@@ -6,7 +6,7 @@ function setup(){
 }
 
 function draw(){
-    FileList(shapecolour)
+    fill(shapecolour)
     circle(300, 200,300);
 }
 
