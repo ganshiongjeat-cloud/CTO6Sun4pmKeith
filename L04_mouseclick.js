@@ -6,7 +6,7 @@ function setup(){
 }
 
 function draw(){
-    fill(shapecolour);
+    fill(shapecolour,shapecolour,shapecolour);
     circle(300,200,300);
     // fill(random(255),random(255),random(255))
     // React(10,20,20,20)
