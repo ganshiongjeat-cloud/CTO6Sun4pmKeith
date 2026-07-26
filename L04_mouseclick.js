@@ -12,7 +12,7 @@ function draw(){
 }
 
 function mousePressed(){
-    for(let i = 0;i<shapecolour;i++)
+
      shapecolour = (random(255));
 
     fill(shapecolour,shapecolour,shapecolour);
