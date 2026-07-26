@@ -1,3 +1,4 @@
+let shapecolour;
 function setup(){
     createCanvas(600,400);
     background(220);
@@ -12,7 +13,7 @@ function draw(){
 
 function mousePressed(){
     for(let i = 0;i<shapecolour;i++)
-    let shapecolour = (random(255));
+     shapecolour = (random(255));
 
     fill(shapecolour,shapecolour,shapecolour);
     circle(random(600),random(400),random(60));
