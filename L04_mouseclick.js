@@ -13,15 +13,16 @@ function draw(){
 
 function mousePressed(){
 
-     shapecolour = (random(255));
-    fill(shapecolour,shapecolour,shapecolour);
-    circle(random(600),random(400),random(60));
+    //  shapecolour = (random(255));
+    // fill(shapecolour,shapecolour,shapecolour);
+    // circle(random(600),random(400),random(60));
 
-    fill(shapecolour,shapecolour,shapecolour);
-    rect(random(600),random(400),random(100),random(80));
+    // fill(shapecolour,shapecolour,shapecolour);
+    // rect(random(600),random(400),random(100),random(80));
 }
 
 function mouseReleased(){
     rect(random(600),random(400),random(100),random(300));
     background(220)
 }
+
