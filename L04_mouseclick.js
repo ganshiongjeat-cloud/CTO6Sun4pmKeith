@@ -1,5 +1,4 @@
 // write your codes here
-let shapecolour = 255;
 function setup(){
     createcanvas(600,400);
     background(220);
