@@ -8,6 +8,7 @@ function setup(){
 function draw(){
     fill(shapecolour);
     circle(300,200,300);
+    fill()
 }
 
 function mousePressed(){
