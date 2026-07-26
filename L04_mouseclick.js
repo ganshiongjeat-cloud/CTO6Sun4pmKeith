@@ -8,7 +8,7 @@ function setup(){
 function draw(){
     fill(shapecolour);
     circle(300,200,300);
-    fill(random(255),random(255),)
+    fill(random(255),random(255),random(255))
 }
 
 function mousePressed(){
