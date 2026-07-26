@@ -6,7 +6,7 @@ function setup(){
 }
 
 function draw(){
-    fill(shapecolour)
+    fill(shapecolour);
     circle(300, 200,300);
 }
 
