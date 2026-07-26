@@ -13,7 +13,7 @@ function draw(){
 function mousePressed(){
     shapecolour = (random(255),random(255),random(255))
     circle(random(600),random(400),random(60))
-    rect(random(600),random(400),)
+    rect(random(600),random(400),random(100))
 }
 
 function mouseReleased(){
