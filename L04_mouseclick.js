@@ -11,9 +11,10 @@ function draw(){
 }
 
 function mousePressed(){
+    let
     shapecolour = (random(255),random(255),random(255))
     circle(random(600),random(400),random(60))
-    rect(random(600),random(400),random(100))
+    rect(random(600),random(400),random(100),random(80))
 }
 
 function mouseReleased(){
