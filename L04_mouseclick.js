@@ -20,5 +20,5 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    rect(random(600))
+    rect(random(600),random)
 }
