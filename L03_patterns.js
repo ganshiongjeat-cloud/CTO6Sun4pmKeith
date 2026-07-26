@@ -65,9 +65,9 @@ for(let i=0;i<5;i++){
   circle(startX +i*30,15,30)
 }
   // Task 4: Grid of Circles
-let circlediameter = 30
+let circlediameter = 30;
 let numcircle = 5;
-let totalwidth = numcircles * circlediameter
+let totalwidth = numcircles * circlediameter;
 let 
 }
 
