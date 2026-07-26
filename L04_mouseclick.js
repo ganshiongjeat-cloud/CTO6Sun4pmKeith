@@ -15,7 +15,7 @@ function mousePressed(){
     shapecolour = (random(255),random(255),random(255))
     fill(shapecolour)
     circle(random(600),random(400),random(60))
-    fill(s)
+    fill(shapecolour)
     rect(random(600),random(400),random(100),random(80))
 }
 
