@@ -6,8 +6,8 @@ function setup(){
 
 function draw(){
     let shapecolour = 0;
-    fill(shapecolour);
-    circle(300,200,300);
+    fill(shapecolour,255,255);
+    circle(300,200,100);
     // fill(random(255),random(255),random(255))
     // React(10,20,20,20)
 }
@@ -29,3 +29,4 @@ function mouseReleased(){
 function mouseMoved(){
     ellipse(mouseX,mouseY,10,10);
 }
+function mouseDragged()
