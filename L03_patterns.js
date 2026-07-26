@@ -73,6 +73,6 @@ let startY = (height - totalwidth) / 2 + circlediameter / 2;
 for (let row = 0; row < numcircle; row++)
   let rowY = startY + (circlediameter * row);
 let x = startX + i * circlediameter;
-ellipse
+ellipse(x ,)
 }
 
