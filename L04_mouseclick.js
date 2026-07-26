@@ -25,4 +25,6 @@ function mouseReleased(){
     rect(random(600),random(400),random(100),random(300));
     background(220)
 }
-
+function mousemoved(){
+    
+}
