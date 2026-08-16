@@ -73,5 +73,8 @@ else if(key === 'g'||key === 'g'){
 else{
     ballcolor = color(255,255,0);
 }
+if(keyIsDown(LEFT_ARROW)){
+    x-=speed
+}
 }
 
