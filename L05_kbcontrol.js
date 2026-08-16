@@ -8,7 +8,8 @@ function setup(){
 
 function mousePressed(){
     colours = colour(random(255),random(255),random(255));
-    size = 5;}
+    size = 5;
+}
 function mouseDragged(){
     fill(colours);
     circle(mouseX,mouseY,size);
