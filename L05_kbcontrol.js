@@ -63,6 +63,8 @@ if(key === 'w'||key === 'w'){
 if(key === 'r'||key ==='r'){
     ballcolour = ballcolour(0,0,255);
 }
-if(key === 'g'||key === 'g');
+if(key === 'g'||key === 'g'){
+    ballcolor()
+}
 }
 
