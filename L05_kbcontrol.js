@@ -74,16 +74,16 @@ else{
     ballcolor = color(255,255,0);
 }
 if(keyIsDown(LEFT_ARROW)){
-    x-=speed
+    x-=speed;
 }
 if(keyIsDown(RIGHT_ARROW)){
-    x+=speed
+    x+=speed;
 }
 if(keyIsDown(UP_ARROW)){
-    y+=speed
+    y+=speed;
 }
 if(keyIsDown(DOWN_ARROW)){
-    y-=speed
+    y-=speed;
 }
 }
 
