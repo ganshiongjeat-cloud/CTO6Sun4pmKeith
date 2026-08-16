@@ -19,5 +19,5 @@ function mouseDragged(){
 
 function keyPressed(){
     background(220);
-    let numC
+    let numCircles = 
 }
