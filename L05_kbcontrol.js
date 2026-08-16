@@ -58,13 +58,13 @@ if(keyCode === 40){
     ballcolor = color(0,0,0)
 }
 if(key === 'w'||key === 'w'){
-    ballcolor = ballcolor(0,255,0);
+    ballcolor = color(0,255,0);
     }
 if(key === 'r'||key ==='r'){
-    ballcolor = ballcolor(0,0,255);
+    ballcolor = color(0,0,255);
 }
 if(key === 'g'||key === 'g'){
-    ballcolor = ballcolor(255,0,0);
+    ballcolor = color(255,0,0);
 }
 }
 
