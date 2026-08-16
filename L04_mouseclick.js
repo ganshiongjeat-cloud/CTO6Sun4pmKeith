@@ -27,7 +27,7 @@ function mouseReleased(){
     background(220)
 }
 function mouseMoved(){
-    fill(random(255),random(10,255),random(10,255));
+    fill(random(10,255),random(10,255),random(10,255));
     circle(mouseX,mouseY,random(5,50),random(5,50));
     ellipse(mouseX,mouseY,10,10);
 }
