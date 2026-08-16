@@ -8,5 +8,5 @@ function setup(){
 }
 
 function mousePressed(){
-    colours = colour(random(255))
+    colours = colour(random(255),random(255))
 }
