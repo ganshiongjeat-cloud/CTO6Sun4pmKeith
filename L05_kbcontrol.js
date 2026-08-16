@@ -80,10 +80,10 @@ if(keyIsDown(RIGHT_ARROW)){
     x+=speed;
 }
 if(keyIsDown(UP_ARROW)){
-    y+=speed;
+    y-=speed;
 }
 if(keyIsDown(DOWN_ARROW)){
-    y-=speed;
+    y+=speed;
 }
 }
 
