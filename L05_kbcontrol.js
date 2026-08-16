@@ -28,9 +28,10 @@ function keyPressed(){
         circle(x,y,size);
     }
 }
+
+co
 function keyReleased(){
     background(220);
-    
 }
 
 
