@@ -7,4 +7,6 @@ function setup(){
 
 }
 
-function mousePressed(){}
+function mousePressed(){
+    colours = colour
+}
