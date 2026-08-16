@@ -30,7 +30,7 @@ function keyPressed(){
 }
 
 console.log("key:",key);
-console,
+console,log("")
 function keyReleased(){
     background(220);
 }
