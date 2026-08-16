@@ -24,6 +24,6 @@ function keyPressed(){
         let x = random(width);
         let y = random(height);
         let size = random(5,40);
-        fill()
+        fill(random)
     }
 }
