@@ -29,7 +29,7 @@ function keyPressed(){
     }
 }
 
-co
+console.log()
 function keyReleased(){
     background(220);
 }
