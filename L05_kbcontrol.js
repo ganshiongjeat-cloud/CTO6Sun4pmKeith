@@ -37,4 +37,5 @@ function draw(){
     if(key ===  'c' || key === 'c'){
         circle(100,100,80);
     }
+    if(key === 's'|| key === 's')
 }
