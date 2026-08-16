@@ -66,6 +66,8 @@ else if(key === 'r'||key ==='r'){
 else if(key === 'g'||key === 'g'){
     ballcolor = color(0,255,0);
 }
-else{}
+else{
+    ballcolor = color(2)
+}
 }
 
