@@ -61,7 +61,7 @@ if(key === 'w'||key === 'w'){
     ballcolor = color(255,0,0);
     }
 if(key === 'r'||key ==='r'){
-    ballcolor = color(0,0,255);
+    ballcolor = color(255,0,0);
 }
 if(key === 'g'||key === 'g'){
     ballcolor = color(0,255,0);
