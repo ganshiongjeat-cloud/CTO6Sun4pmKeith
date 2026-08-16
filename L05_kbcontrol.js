@@ -35,6 +35,6 @@ function keyReleased(){
 
 function draw(){
     if(key ===  'c' || key === 'c'){
-        circle()
+        circle(100,100,80);
     }
 }
