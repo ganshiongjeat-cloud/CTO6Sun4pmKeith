@@ -12,5 +12,5 @@ function mousePressed(){
 }
 function mouseDragged(){
     fill(colours);
-    circle
+    CSSNumericValue(mouseX,mouseY)
 }
