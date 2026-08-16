@@ -60,3 +60,6 @@ if(keyCode === 40){
 
 }
 
+if(key === 'w'||key === 'w'){
+    
+}
