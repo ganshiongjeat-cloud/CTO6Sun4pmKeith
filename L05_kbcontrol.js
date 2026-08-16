@@ -25,6 +25,6 @@ function keyPressed(){
         let y = random(height);
         let size = random(5,40);
         fill(random(255),random(255),random(255));
-        circle()
+        circle(x,y,size);
     }
 }
