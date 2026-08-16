@@ -54,6 +54,6 @@ circle(100,100,50);
 if(keyCode === 38){
     ballcolour = color(255,0,0);
 }
-
+if(keyCode === 40)
 
 
