@@ -31,3 +31,8 @@ function keyPressed(){
 function keyReleased(){
     background(220);
 }
+
+
+function draw(){
+    if(key ===  'c' || key === 'c')
+}
