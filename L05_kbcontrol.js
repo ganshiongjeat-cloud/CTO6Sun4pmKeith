@@ -1,5 +1,5 @@
 let size = 5;
-let colours;
+let colors;
 function setup(){
     createCanvas(600,400);
     background(220);
@@ -7,7 +7,7 @@ function setup(){
 }
 
 function mousePressed(){
-    colours = color(random(255),random(255),random(255));
+    colors = color(random(255),random(255),random(255));
     size = 5;
 }
 function mouseDragged(){
