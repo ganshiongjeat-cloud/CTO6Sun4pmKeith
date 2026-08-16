@@ -34,6 +34,6 @@ function keyReleased(){
 
 
 function draw(){
-    if(key ===  'c' || key === 'c');
-        circle
+    if(key ===  'c' || key === 'c'){}
+        
 }
