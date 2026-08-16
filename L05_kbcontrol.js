@@ -50,7 +50,8 @@ function draw(){
     }
 }
 
-circle()
+circle(100,100,50);
+
 
 
 
