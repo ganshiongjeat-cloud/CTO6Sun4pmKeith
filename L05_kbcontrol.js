@@ -52,7 +52,7 @@ function draw(){
 
 circle(100,100,50);
 if(keyCode === 38){
-    ballcolour = color(255)
+    ballcolour = color(255,0,0);
 }
 
 
