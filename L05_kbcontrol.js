@@ -41,6 +41,6 @@ function draw(){
         square(60,60,80);
     }
     if(key === 't'|| key === 't'){
-        triangle(100,)
+        triangle(100,50,50,150,150,150)
     }
 }
