@@ -4,7 +4,7 @@ let ballcolor;
 function setup(){
     createCanvas(600,400);
     background(220);
-   ballcolor=color
+   ballcolor=color(255);
 }
 
 function mousePressed(){
@@ -48,7 +48,7 @@ function draw(){
     if(key === 't'|| key === 't'){
         triangle(100,50,50,150,150,150);
     }
-}
+
 
 circle(100,100,50);
 if(keyCode === 38){
@@ -58,4 +58,4 @@ if(keyCode === 40){
     ballcolor = color(0,0,0)
 }
 
-
+}
