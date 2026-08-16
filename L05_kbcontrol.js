@@ -7,12 +7,11 @@ function setup(){
 }
 
 function mousePressed(){
-    colours = colour(random(255),random(255),random(255))
-    size = 5
-}
+    colours = colour(random(255),random(255),random(255));
+    size = 5;}
 function mouseDragged(){
     fill(colours);
-    circle(mouseX,mouseY,size)
+    circle(mouseX,mouseY,size);
 
-    size += 0.5
+    size += 0.5;
 }
