@@ -18,5 +18,6 @@ function mouseDragged(){
 }
 
 function keyPressed(){
-    background
+    background(220);
+    let numC
 }
