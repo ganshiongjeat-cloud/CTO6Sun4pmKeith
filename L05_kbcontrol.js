@@ -28,4 +28,6 @@ function keyPressed(){
         circle(x,y,size);
     }
 }
-function keyReleased()
+function keyReleased(){
+    background(255)
+}
