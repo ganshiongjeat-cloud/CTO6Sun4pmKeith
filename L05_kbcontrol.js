@@ -4,7 +4,7 @@ let ballcolor;
 
 let x = 100;
 let y = 100;
-let speed = 10;
+let speed = 8;
 function setup(){
     createCanvas(600,400);
     background(220);
