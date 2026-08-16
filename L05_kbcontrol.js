@@ -63,7 +63,7 @@ if(key === 'w'||key === 'w'){
 else if(key === 'r'||key ==='r'){
     ballcolor = color(255,0,0);
 }
-ekif(key === 'g'||key === 'g'){
+else if(key === 'g'||key === 'g'){
     ballcolor = color(0,255,0);
 }
 }
