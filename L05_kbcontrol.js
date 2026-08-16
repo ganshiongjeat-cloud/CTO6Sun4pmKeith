@@ -54,7 +54,7 @@ function draw(){
     }
 
 fill(ballcolor)
-circle(100,100,50);
+circle(x,100,50);
 if(keyCode === 38){
     ballcolor = color(255,0,0);
 }
