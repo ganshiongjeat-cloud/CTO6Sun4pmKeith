@@ -85,6 +85,7 @@ if(keyIsDown(UP_ARROW)){
 if(keyIsDown(DOWN_ARROW)){
     y+=speed;
 }
-x = constrain(x,0)
+x = constrain(x,0,width);
+y = constrain()
 }
 
