@@ -49,7 +49,7 @@ function draw(){
         triangle(100,50,50,150,150,150);
     }
 
-
+fill(ballcolor)
 circle(100,100,50);
 if(keyCode === 38){
     ballcolor = color(255,0,0);
@@ -59,3 +59,4 @@ if(keyCode === 40){
 }
 
 }
+
