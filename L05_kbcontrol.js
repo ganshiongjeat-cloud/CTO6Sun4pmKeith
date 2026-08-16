@@ -85,5 +85,6 @@ if(keyIsDown(UP_ARROW)){
 if(keyIsDown(DOWN_ARROW)){
     y+=speed;
 }
+x = 
 }
 
