@@ -58,7 +58,7 @@ if(keyCode === 40){
     ballcolor = color(0,0,0)
 }
 if(key === 'w'||key === 'w'){
-    ballcolor = color(255,0,0);
+    ballcolor = color(255,255,255);
     }
 if(key === 'r'||key ==='r'){
     ballcolor = color(255,0,0);
