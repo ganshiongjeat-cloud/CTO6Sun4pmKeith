@@ -11,6 +11,6 @@ function mousePressed(){
     size = 5
 }
 function mouseDragged(){
-    FileList(colours);
-    
+    fill(colours);
+    circle
 }
