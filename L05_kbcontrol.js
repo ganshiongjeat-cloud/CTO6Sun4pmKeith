@@ -4,9 +4,12 @@ function setup(){
     createCanvas(600,400);
     background(220);
 
-
 }
 
 function mousePressed(){
     colours = colour(random(255),random(255),random(255))
+    size = 5
+}
+function mouseDragged(){
+    
 }
