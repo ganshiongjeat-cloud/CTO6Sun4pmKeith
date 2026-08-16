@@ -55,7 +55,7 @@ if(keyCode === 38){
     ballcolor = color(255,0,0);
 }
 if(keyCode === 40){
-    ballcolor
+    ballcolor = color(0,0,0)
 }
 
 
