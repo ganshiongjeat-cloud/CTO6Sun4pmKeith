@@ -100,6 +100,6 @@ if(key === 't' || key === 'T'){
 }
 }
 function keyReleased(){
-    background(220)
+    background(220);
 }
 
