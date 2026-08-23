@@ -2,7 +2,7 @@ let x = 200
 let y = 200
 let soundEffect, bgmusic, staticImage;
 function preload(){
-    soundEffect
+    soundEffect = loadS
 }
 function setup(){
 createCanvas(400,400);
