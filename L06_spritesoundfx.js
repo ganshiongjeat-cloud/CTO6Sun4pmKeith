@@ -22,9 +22,10 @@ if(keyIsDown(LEFT_ARROW)){
 if(keyIsDown(RIGHT_ARROW)){
     staticImageX += staticSpeed;
 }
-if(keyIsDown(RIGHT_ARROW)){
+if(keyIsDown(DOWN_ARROW)){
     staticImageY += staticSpeed;
 }
+
 image(staticImage,staticImageX,staticImageY,50,50);
 }
 
