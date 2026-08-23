@@ -95,4 +95,6 @@ if(key === 'r' || key === 'R'){
 if(key === 'e' || key === 'E'){
 
 }
-if(key === 't' || key === 'T'){}
+if(key === 't' || key === 'T'){
+
+}
