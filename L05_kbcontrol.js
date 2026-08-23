@@ -105,7 +105,10 @@ if(key === 'y' || key === 'Y'){
     shapeColour = colour(255,255,0);
 }
 if(key === '+'){
-    size+= 10
+    size+= 10;
+}
+if(key === '-'){
+    s
 }
 }
 function keyReleased(){
