@@ -28,6 +28,7 @@ if(keyIsDown(DOWN_ARROW)){
 if(keyIsDown(UP_ARROW)){
     staticImageY -= staticSpeed;
 }
+
 image(staticImage,staticImageX,staticImageY,50,50);
 }
 
