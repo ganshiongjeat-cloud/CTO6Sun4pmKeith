@@ -13,7 +13,9 @@ bgMusic.loop();
 
 function draw(){
 background("lightblue");
-if(keyIsDown(LEFT_ARROW))
+if(keyIsDown(LEFT_ARROW)){
+    staticImage
+}
 image(staticImage,staticImageX,staticImageY,50,50);
 }
 
