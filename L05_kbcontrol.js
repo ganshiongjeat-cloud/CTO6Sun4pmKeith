@@ -98,7 +98,9 @@ circle(mouseX,mouseY,50)
 if(key === 'b' || key === 'B'){
     shapeColour = colour(0,0,255);
 }
-
+if(key === 'g' || key === 'G'){
+    shapeColour = colour(0,0,255);
+}
 }
 function keyReleased(){
     background(220);
