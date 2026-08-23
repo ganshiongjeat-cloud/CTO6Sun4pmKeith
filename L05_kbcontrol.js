@@ -90,7 +90,7 @@ y = constrain(y,0,height);
 }
 
 if(key === 'r' || key === 'R'){
-    square(mouseX,mouseY,50,50)
+    square(shapeX,shapeY,50,50)
 }
 if(key === 'e' || key === 'E'){
 circle(shapeX,shapeY,50)
