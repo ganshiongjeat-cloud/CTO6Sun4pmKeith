@@ -90,16 +90,16 @@ y = constrain(y,0,height);
 
 
 if(key === 'r' || key === 'R'){
-    square(shapeX,shapeY,50,50)
+    square(mouseX,mouseY,50,50)
 }
 if(key === 'e' || key === 'E'){
-circle(shapeX,shapeY,50)
+circle(mouseX,mouseY,50)
 }
 if(key === 't' || key === 'T'){
 
 }
 }
 function keyReleased(){
-
+    background(220)
 }
 
