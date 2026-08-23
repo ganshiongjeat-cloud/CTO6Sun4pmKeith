@@ -104,6 +104,9 @@ if(key === 'g' || key === 'G'){
 if(key === 'y' || key === 'Y'){
     shapeColour = colour(255,255,0);
 }
+if(key === '+'){
+    
+}
 }
 function keyReleased(){
     background(220);
