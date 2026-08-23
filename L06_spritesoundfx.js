@@ -19,7 +19,9 @@ background("lightblue");
 if(keyIsDown(LEFT_ARROW)){
     staticImageX -= staticSpeed;
 }
-if(keyIsDown())
+if(keyIsDown(RIGHT_ARROW)){
+    
+}
 image(staticImage,staticImageX,staticImageY,50,50);
 }
 
