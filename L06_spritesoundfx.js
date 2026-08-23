@@ -4,5 +4,6 @@ background(220);
 }
 
 function draw(){
-    CSSNumericValue(x)
+    CSSNumericValue(x,y,50);
+    
 }
