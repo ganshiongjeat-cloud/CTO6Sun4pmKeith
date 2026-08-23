@@ -12,5 +12,5 @@ bgMusic.loop();
 }
 
 function draw(){
-
+background("")
 }
