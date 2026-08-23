@@ -8,6 +8,7 @@ function draw(){
     if(keyCode === 38){
         y -= 5;
     if(keyCode === 37){
+        x -=5;
         
     }
     }
