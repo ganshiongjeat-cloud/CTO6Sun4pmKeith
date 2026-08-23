@@ -13,6 +13,7 @@ bgMusic.loop();
 
 function draw(){
 background("lightblue");
+if()
 image(staticImage,staticImageX,staticImageY,50,50);
 }
 
