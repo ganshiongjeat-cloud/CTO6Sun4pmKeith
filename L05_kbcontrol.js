@@ -95,7 +95,7 @@ if(key === 'r' || key === 'R'){
 if(key === 'e' || key === 'E'){
 circle(mouseX,mouseY,50)
 }
-if(key === 't' || key === 'T'){
+if(key === 'b' || key === 'B'){
 
 }
 }
