@@ -2,7 +2,8 @@ let x = 200
 let y = 200
 let soundEffect, bgmusic, staticImage;
 let staticImageX = 0;
-let static
+let staticImageY = 0;
+let stat
 function preload(){
     soundEffect = loadSound('assets/pop.mp3');
     bgMusic = loadSound('assets/bossaNova.mp3');
