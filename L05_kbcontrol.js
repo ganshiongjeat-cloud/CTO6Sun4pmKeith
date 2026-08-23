@@ -90,5 +90,5 @@ y = constrain(y,0,height);
 }
 
 if(key === 'r' || key === 'r'){
-    
+    square(mouseX,mouseY,)
 }
