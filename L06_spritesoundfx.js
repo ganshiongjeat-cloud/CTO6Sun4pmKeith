@@ -10,13 +10,13 @@ function draw(){
     if(keyCode === 38){
         x -= 5;}
     if(keyCode === 37){
-        x -=5;
+        y -=5;
     }
     if(keyCode === 39){
         x += 5;
     }
     if(keyCode === 40){
-        y += 5;
+        x += 5;
     }
  circle(x,y,50);
 }
