@@ -13,5 +13,10 @@ bgMusic.loop();
 
 function draw(){
 background("lightblue");
-Image(staticImage,0,0,50,50);
+image(staticImage,0,0,50,50);
+}
+
+function keyPressed(){
+    if(keycode ===32);
+    
 }
