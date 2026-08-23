@@ -93,7 +93,7 @@ if(key === 'r' || key === 'R'){
     square(mouseX,mouseY,50,50)
 }
 if(key === 'e' || key === 'E'){
-circle(shapeX,shapeY)
+circle(shapeX,shapeY,50)
 }
 if(key === 't' || key === 'T'){
 
