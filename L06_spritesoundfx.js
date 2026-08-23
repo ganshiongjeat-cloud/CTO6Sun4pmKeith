@@ -11,6 +11,9 @@ function draw(){
         x -=5;
     }
     if(keyCode === 39){
+        x += 5;
+    }
+    if(keyCode === 40){
         
     }
 }
