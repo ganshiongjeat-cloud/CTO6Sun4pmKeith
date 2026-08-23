@@ -13,7 +13,7 @@ bgMusic.loop();
 
 function draw(){
 background("lightblue");
-image(staticImage,stat,0,50,50);
+image(staticImage,staticImageX,0,50,50);
 }
 
 function keyPressed(){
