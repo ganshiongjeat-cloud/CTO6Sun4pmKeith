@@ -18,5 +18,5 @@ image(staticImage,0,0,50,50);
 
 function keyPressed(){
     if(keycode ===32);
-        soundEffect
+        soundEffect.play();
 }
