@@ -96,7 +96,7 @@ if(key === 'e' || key === 'E'){
 circle(mouseX,mouseY,50)
 }
 if(key === 'b' || key === 'B'){
-
+    shapeColour
 }
 }
 function keyReleased(){
