@@ -13,5 +13,5 @@ bgMusic.loop();
 
 function draw(){
 background("lightblue");
-Image(staticImage,0,0,50,50)
+Image(staticImage,0,0,50,50);
 }
