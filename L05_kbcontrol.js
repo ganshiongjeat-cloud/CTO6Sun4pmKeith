@@ -102,7 +102,7 @@ if(key === 'g' || key === 'G'){
     shapeColour = colour(0,255,0);
 }
 if(key === 'y' || key === 'Y'){
-    shapeColour = colour(0,0,255);
+    shapeColour = colour(255,255,0);
 }
 }
 function keyReleased(){
