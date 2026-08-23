@@ -87,7 +87,7 @@ if(keyIsDown(DOWN_ARROW)){
 }
 x = constrain(x,0,width);
 y = constrain(y,0,height);
-}
+
 
 if(key === 'r' || key === 'R'){
     square(shapeX,shapeY,50,50)
@@ -96,5 +96,8 @@ if(key === 'e' || key === 'E'){
 circle(shapeX,shapeY,50)
 }
 if(key === 't' || key === 'T'){
+
+}
+function keyReleased(){}
 
 }
