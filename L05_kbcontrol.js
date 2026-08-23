@@ -88,7 +88,7 @@ if(keyIsDown(DOWN_ARROW)){
 x = constrain(x,0,width);
 y = constrain(y,0,height);
 
-
+fill(shapeColour)
 if(key === 'r' || key === 'R'){
     square(mouseX,mouseY,size,size);
 }
