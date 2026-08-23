@@ -4,7 +4,7 @@ background(220);
 }
 
 function draw(){
-    circle(x,y,50);
+   
     if(keyCode === 38){
         y -= 5;}
     if(keyCode === 37){
@@ -16,5 +16,5 @@ function draw(){
     if(keyCode === 40){
         y += 5;
     }
-    
+ circle(x,y,50);
 }
