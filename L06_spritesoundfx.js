@@ -1,6 +1,6 @@
 let x = 200
 let y = 200
-let soundEffect, bgmusic, stat
+let soundEffect, bgmusic, staticImage;
 function setup(){
 createCanvas(400,400);
 background(220);
