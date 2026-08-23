@@ -28,8 +28,8 @@ if(keyIsDown(DOWN_ARROW)){
 if(keyIsDown(UP_ARROW)){
     staticImageY -= staticSpeed;
 }
-staticImageX = constrain(staticImageX,0,width);
-staticImageY = constrain(staticImageY,0,height);
+staticImageX = constrain(staticImageX,50,300);
+staticImageY = constrain(staticImageY,50,height);
 image(staticImage,staticImageX,staticImageY,50,50);
 }
 
