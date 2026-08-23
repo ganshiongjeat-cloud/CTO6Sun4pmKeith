@@ -93,7 +93,7 @@ if(key === 'r' || key === 'R'){
     square(mouseX,mouseY,size,size);
 }
 if(key === 'e' || key === 'E'){
-circle(mouseX,mouseY,50)
+circle(mouseX,mouseY,size);
 }
 if(key === 'b' || key === 'B'){
     shapeColour = colour(0,0,255);
