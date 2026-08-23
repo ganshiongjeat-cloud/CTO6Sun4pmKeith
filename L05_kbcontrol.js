@@ -108,7 +108,7 @@ if(key === '+'){
     size+= 10;
 }
 if(key === '-'){
-    s
+    size -= 10;
 }
 }
 function keyReleased(){
