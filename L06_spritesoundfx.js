@@ -6,6 +6,6 @@ background(220);
 function draw(){
     circle(x,y,50);
     if(keyCode === 38){
-        
+        y -= 5
     }
 }
