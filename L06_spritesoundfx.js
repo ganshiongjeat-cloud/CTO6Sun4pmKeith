@@ -16,6 +16,7 @@ bgMusic.loop();
 
 function draw(){
 background("lightblue");
+if(stat)
 if(keyIsDown(LEFT_ARROW)){
     staticImageX -= staticSpeed;
 }
