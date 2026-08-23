@@ -101,7 +101,7 @@ if(key === 'b' || key === 'B'){
 if(key === 'g' || key === 'G'){
     shapeColour = colour(0,255,0);
 }
-if(key === '' || key === 'B'){
+if(key === 'y' || key === 'Y'){
     shapeColour = colour(0,0,255);
 }
 }
