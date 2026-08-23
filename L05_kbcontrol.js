@@ -92,6 +92,7 @@ y = constrain(y,0,height);
 if(key === 'r' || key === 'R'){
     square(mouseX,mouseY,)
 }
-if(key === 'e' || key === 'R'){
+if(key === 'e' || key === 'E'){
 
 }
+if(key === 't' || key === 'T'){}
