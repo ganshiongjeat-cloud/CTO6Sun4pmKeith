@@ -4,6 +4,6 @@ background(220);
 }
 
 function draw(){
-    CSSNumericValue(x,y,50);
-    
+    circle(x,y,50);
+    if(keycode === 38)
 }
