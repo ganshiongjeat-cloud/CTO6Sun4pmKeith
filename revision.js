@@ -1,4 +1,3 @@
-let number =
 function setup(){
     createCanvas(600,400);
     background(0);
@@ -10,6 +9,6 @@ function draw(){
 //     fill(0);
 //     circle(300,200,100);
 //     rect(350,150,100,100);
-
+for(let i =0; i<10; i++)
 }
 
