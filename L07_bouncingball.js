@@ -40,5 +40,5 @@ let ballSpeedX = 3;
 let ballSpeedY = 3;
 function draw(){
     background(220);
-    circle(ball)
+    circle(ballx, bally, )
 }
