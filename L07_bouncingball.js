@@ -35,7 +35,7 @@ function setup(){
 
 let ballx = 300;
 let bally = 200;
-let ballSize = 200;
+let ballSize = 30;
 let ballSpeedX = 5;
 let ballSpeedY = 5;
 function draw(){
