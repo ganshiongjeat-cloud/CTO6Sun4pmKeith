@@ -35,7 +35,7 @@
 
 let ballx = 300;
 let bally = 200;
-let 
+let ballSize = 
 function draw(){
     background(220);
     if(keyIsDown(LEFT_ARROW)){
