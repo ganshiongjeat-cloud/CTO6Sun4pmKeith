@@ -10,8 +10,8 @@ function draw(){
 //     circle(300,200,100);
 //     rect(350,150,100,100);
 for(let i =0; i<10; i++){
-    fill(0 + i*25):
-    
+    fill(0 + i*25);
+
 }
 }
 
