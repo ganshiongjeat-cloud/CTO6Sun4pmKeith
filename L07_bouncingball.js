@@ -41,7 +41,7 @@ let ballSpeedY = 5;
 function draw(){
     background(220);
     circle(ballx, bally, 10);
-    ballx -= ballS
+    ballx -= ballSpeedX
     if(ballx==600){
         ballx
     }
