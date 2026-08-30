@@ -37,7 +37,7 @@ let ballx = 300;
 let bally = 200;
 let ballSize = 30;
 let ballSpeedX = 3;
-let ballSpeedY
+let ballSpeedY = 3;
 function draw(){
     background(220);
     if(keyIsDown(LEFT_ARROW)){
