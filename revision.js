@@ -4,7 +4,7 @@ function setup(){
 }
 function draw(){
     stroke(255,0,0);
-
+    strokeWeight(10);
     triangle(200,150,250,250,160,250);
     fill(0);
     circle(300,200,100);
