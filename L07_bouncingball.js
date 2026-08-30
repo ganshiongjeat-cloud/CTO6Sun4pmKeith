@@ -43,10 +43,10 @@ function draw(){
     circle(ballx, bally, 10);
     ballx += ballSpeedX
     bally += ballSpeedY
-    if(ballx + (ballSize/2) >= width || ballx - (ballsize/2)<=0){
+    if(ballx + (ballSize/2) >= width || ballx - (ballSize/2)<=0){
         ballSpeedX = -ballSpeedX;
     }
-    if(bally + (ballSize/2)> height || bally < (ballsize/2)){
+    if(bally + (ballSize/2)> height || bally < (ballSize/2)){
         ballSpeedY = -ballSpeedY;
 
     }
