@@ -7,9 +7,9 @@
 //     pico = loadImage('assets/pico-a.png');
 //     popSound = loadSound('assets/bossaNova.mp3');
 // }
-// function setup(){
-//     createCanvas(600,400);
-// }
+function setup(){
+    createCanvas(600,400);
+}
 // function draw(){
 //     background(220);
 //     if(keyIsDown(LEFT_ARROW)){
