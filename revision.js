@@ -6,6 +6,6 @@ function draw(){
     stroke(255,0,0);
     triangle()
     circle(300,200,100);
-    rect(400,150,100,100);
+    rect(350,150,100,100);
 }
 
