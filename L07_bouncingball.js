@@ -33,7 +33,7 @@
 //     }
 // }
 
-let 
+let x = 
 function draw(){
     background(220);
     if(keyIsDown(LEFT_ARROW)){
