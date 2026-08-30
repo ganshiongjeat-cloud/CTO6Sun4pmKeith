@@ -4,6 +4,6 @@ function setup(){
 }
 function draw(){
     triangle()
-    CSSNumericValue()
+    circle(300,200)
 }
 
