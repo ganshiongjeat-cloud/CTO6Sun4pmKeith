@@ -3,6 +3,6 @@ function setup(){
     background(0);
 }
 function draw(){
-    triangle(160,)
+    triangle()
 }
 
