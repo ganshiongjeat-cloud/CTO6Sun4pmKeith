@@ -4,6 +4,7 @@ function setup(){
 }
 function draw(){
     triangle()
-    circle(300,200)
+    circle(300,200,100);
+    square
 }
 
