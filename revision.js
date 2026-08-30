@@ -4,5 +4,6 @@ function setup(){
 }
 function draw(){
     triangle()
+    cirl
 }
 
