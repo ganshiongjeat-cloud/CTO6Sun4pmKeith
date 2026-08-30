@@ -36,8 +36,8 @@ function setup(){
 let ballx = 300;
 let bally = 200;
 let ballSize = 30;
-let ballSpeedX = 3;
-let ballSpeedY = 3;
+let ballSpeedX = 5;
+let ballSpeedY = 5;
 function draw(){
     background(220);
     circle(ballx, bally, 10);
