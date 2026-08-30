@@ -33,7 +33,9 @@
 //     }
 // }
 
-let x = 
+let x = 300;
+let y = 200;
+let 
 function draw(){
     background(220);
     if(keyIsDown(LEFT_ARROW)){
