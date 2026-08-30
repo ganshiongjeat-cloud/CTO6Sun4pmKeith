@@ -3,6 +3,7 @@ function setup(){
     background(0);
 }
 function draw(){
+    stroke(255,0,0)
     triangle()
     circle(300,200,100);
     square(300,200)
