@@ -33,8 +33,8 @@
 //     }
 // }
 
-let x = 300;
-let y = 200;
+let ballx = 300;
+let bally = 200;
 let 
 function draw(){
     background(220);
