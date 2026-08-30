@@ -1,3 +1,4 @@
-function createCanvas(){
-    
+function setup(){
+    create
 }
+
