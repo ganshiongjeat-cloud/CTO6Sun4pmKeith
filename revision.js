@@ -11,7 +11,7 @@ function draw(){
 //     rect(350,150,100,100);
 for(let i =0; i<10; i++){
     fill(0 + i*25);
-    circle(30*i+20,30)
+    circle(30*i+20,30 + i*20)
 }
 }
 
