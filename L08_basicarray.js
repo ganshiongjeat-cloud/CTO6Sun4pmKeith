@@ -1,6 +1,6 @@
 let x =300
 let y =200
-let speed
+let speed = 3
 function setup(){
     createCanvas(600,400);
     
@@ -10,4 +10,5 @@ function draw(){
     fill(random(255),random(255),random(255));
     rect(x,y,100);
     x += speed
+    
 }
