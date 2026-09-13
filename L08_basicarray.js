@@ -1,9 +1,10 @@
-let x =300
+let x = [""]
 let y =200
 let speed = 3
 let r = 100
 let g = 100
 let b = 100
+
 function setup(){
     createCanvas(600,400);
     
@@ -25,7 +26,7 @@ function setup(){
     text("your age" ,50,100);
     text("your favourite activity" ,50,150);
     for(let x = 0;x<5;x++){
-        
+
     }
 
 }
