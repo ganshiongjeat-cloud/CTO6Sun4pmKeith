@@ -15,5 +15,5 @@ function draw(){
 
 
 
-if(x + 100 >= width || x - 40 <=0){
+if(x + 100 >= width || x - 100 <=0){
         x =- speed;}
