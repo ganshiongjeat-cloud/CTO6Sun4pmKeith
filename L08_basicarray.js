@@ -6,6 +6,7 @@ let g = 100
 let b = 100
 let yPos = 400
 let lineGap = 30
+let bg
 function setup(){
     createCanvas(600,400);
 }
