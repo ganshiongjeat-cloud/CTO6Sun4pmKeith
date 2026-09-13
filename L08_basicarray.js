@@ -23,7 +23,7 @@ function setup(){
     textSize(32);
     Text("Your name" ,50,50);
     text("your age" ,50,100);
-    text("your favourite activity")
+    text("your favourite activity" ,50,150);
 
 }
 
