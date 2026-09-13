@@ -28,6 +28,6 @@ textSize(32);
     }
 
 }
-text("hi",width/2,yPos);
+
 yPos-=0.6;
 }
