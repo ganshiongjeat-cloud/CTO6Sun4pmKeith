@@ -11,7 +11,7 @@ function draw(){
     rect(x,y,100);
     x += speed
 if(x + 50 >= width || x - 50 <=0){
-        x =- speed;}
+        x -= speed;}
 }
 
 
