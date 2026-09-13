@@ -21,7 +21,7 @@ function setup(){
 //     b = random(255)
 //     }
 
-    textSize(32);
+textSize(32);
 text("hi",width/2,yPos);
 yPos-=0.6;
     for(let i = 0;i<favfood.length; i++){
