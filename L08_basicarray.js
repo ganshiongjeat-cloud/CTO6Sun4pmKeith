@@ -10,10 +10,9 @@ function draw(){
     fill(random(255),random(255),random(255));
     rect(x,y,100);
     x += speed
-
+if(x + 100 >= width || x - 100 <=0){
+        x =- speed;}
 }
 
 
 
-if(x + 100 >= width || x - 100 <=0){
-        x =- speed;}
