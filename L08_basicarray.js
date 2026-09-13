@@ -25,7 +25,7 @@ function setup(){
     text("Your name" ,50,50);
     text("your age" ,50,100);
     text("your favourite activity" ,50,150);
-    for(let x = 0;x<5;x++){
+    for(let i = 0;i<5;x++){
         text("x" , 50,(50 + i*50) );
     }
 
