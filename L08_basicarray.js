@@ -12,7 +12,7 @@ function preload(){
 }
 function setup(){
     createCanvas(600,400);
-    
+    bgSound,loop();
 }
 // }
 function draw(){
