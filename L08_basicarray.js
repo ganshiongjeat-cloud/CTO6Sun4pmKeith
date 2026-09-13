@@ -26,7 +26,7 @@ function setup(){
     text("your age" ,50,100);
     text("your favourite activity" ,50,150);
     for(let i = 0;i<5; i++){
-        text((i+1) , 50,(50 + i*50) );
+        text((i+1)+"." , 50,(50 + i*50) );
     }
 
 }
