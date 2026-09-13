@@ -1,5 +1,6 @@
 let x =300
 let y =200
+
 function setup(){
     createCanvas(600,400);
     
