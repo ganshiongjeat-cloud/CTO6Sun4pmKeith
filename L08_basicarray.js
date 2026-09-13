@@ -21,8 +21,8 @@ function setup(){
 //     }
 
     textSize(32);
-    Text("hi" ,0,200);
-    
+    Text("");
+
 }
 
 
