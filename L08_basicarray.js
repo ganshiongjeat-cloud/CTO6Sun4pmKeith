@@ -7,7 +7,7 @@ let b = 100
 let yPos = 400
 function setup(){
     createCanvas(600,400);
-    
+}
 // }
 function draw(){
     background(220);
@@ -30,5 +30,4 @@ textSize(32);
 
 
 yPos-=0.6;
-}
 }
