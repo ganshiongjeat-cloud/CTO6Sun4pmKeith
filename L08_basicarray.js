@@ -20,7 +20,7 @@ function setup(){
 //     b = random(255)
 //     }
 
-    textsize
+    textSize(32);
     Text("hi" ,0,200)
 }
 
