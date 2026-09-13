@@ -4,7 +4,7 @@ let speed = 3
 let r = 100
 let g = 100
 let b = 100
-
+let yPos = 1000
 function setup(){
     createCanvas(600,400);
     
@@ -22,7 +22,7 @@ function setup(){
 //     }
 
     textSize(32);
-    
+
     for(let i = 0;i<favfood.length; i++){
         text((i+1)+"."+favfood[i] , 50,(50 + i*50) );
     }
