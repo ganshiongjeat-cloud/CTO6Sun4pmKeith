@@ -21,7 +21,8 @@ function setup(){
 //     }
 
     textSize(32);
-    Text("");
+    Text("Your name" ,50,50);
+    
 
 }
 
