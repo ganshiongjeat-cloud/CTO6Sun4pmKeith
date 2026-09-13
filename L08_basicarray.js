@@ -22,7 +22,8 @@ function setup(){
 
     textSize(32);
     Text("Your name" ,50,50);
-    text("your age" ,)
+    text("your age" ,50,100);
+    text("")
 
 }
 
