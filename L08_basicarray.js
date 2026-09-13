@@ -21,7 +21,7 @@ function setup(){
 //     }
 
 
-    Text("hi")
+    Text("hi" )
 }
 
 
