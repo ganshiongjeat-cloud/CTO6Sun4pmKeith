@@ -22,9 +22,6 @@ function setup(){
 //     }
 
     textSize(32);
-    text("Your name" ,50,50);
-    text("your age" ,50,100);
-    text("your favourite activity" ,50,150);
     for(let i = 0;i<favfood.length; i++){
         text((i+1)+"."+favfood[i] , 50,(50 + i*50) );
     }
