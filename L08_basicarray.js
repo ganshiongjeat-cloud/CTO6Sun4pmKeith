@@ -6,5 +6,5 @@ function setup(){
     
 }
 function draw(){
-    fill()
+    fill(random(255),random(255),random(255))
 }
