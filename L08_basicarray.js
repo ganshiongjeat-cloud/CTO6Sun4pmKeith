@@ -22,7 +22,7 @@ function setup(){
 //     }
 
     textSize(32);
-text("hi",width)
+text("hi",width/2,yPos)
     for(let i = 0;i<favfood.length; i++){
         text((i+1)+"."+favfood[i] , 50,(50 + i*50) );
     }
