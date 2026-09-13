@@ -22,6 +22,7 @@ function setup(){
 //     }
 
     textSize(32);
+    
     for(let i = 0;i<favfood.length; i++){
         text((i+1)+"."+favfood[i] , 50,(50 + i*50) );
     }
