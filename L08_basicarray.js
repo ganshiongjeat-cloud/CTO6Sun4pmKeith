@@ -1,6 +1,6 @@
 let x =300
 let y =200
-
+let speed
 function setup(){
     createCanvas(600,400);
     
