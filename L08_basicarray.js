@@ -11,7 +11,7 @@ function setup(){
 // }
 function draw(){
     background(0);
-    fill(0,0,255)
+    fill(0,255,0)
 //     fill(random(255),random(255),random(255));
 //     rect(x,y,100);
 //     x += speed
