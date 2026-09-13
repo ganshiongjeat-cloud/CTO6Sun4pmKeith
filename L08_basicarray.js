@@ -15,9 +15,9 @@ function draw(){
     x += speed
 if(x  >= width || x <=0){
         speed = -speed;
-     r = random(255)
+    r = random(255)
     g = random(255)
-    
+    b = random(255)
     }
 
 }
