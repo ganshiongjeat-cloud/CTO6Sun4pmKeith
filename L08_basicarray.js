@@ -27,7 +27,8 @@ textSize(32);
         text((i+1)+"."+favfood[i] , 50,yPos+(50 + i*50) );
     }
 
-}
+
 
 yPos-=0.6;
+}
 }
