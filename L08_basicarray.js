@@ -1,4 +1,4 @@
-let x = ["pizza","burger","sushi"]
+let x = ["pizza","burger","sushi","taco"]
 let y =200
 let speed = 3
 let r = 100
