@@ -30,6 +30,8 @@ textSize(32);
     }
 
 
-
 yPos-=0.6;
+if(yPos< -favfood.length * lineGap){
+    
+}
 }
