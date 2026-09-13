@@ -7,5 +7,5 @@ function setup(){
 }
 function draw(){
     fill(random(255),random(255),random(255))
-    Reflect()
+    rect(x,y,100,100)
 }
