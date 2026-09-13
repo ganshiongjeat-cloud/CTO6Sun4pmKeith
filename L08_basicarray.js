@@ -26,7 +26,7 @@ function draw(){
 textSize(32);
 
     for(let i = 0;i<favfood.length; i++){
-        text((i+1)+"."+favfood[i] , 50,yPos+(50 + i*lineGap) );
+        text((i+1)+"."+favfood[i] , 50,yPos+(+ i*lineGap) );
     }
 
 
