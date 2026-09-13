@@ -16,4 +16,4 @@ function draw(){
 
 
 if(x + 100 >= width || x - 40 <=0){
-        ballSpeedX = -ballSpeedX;}
+        x =- speed;}
