@@ -10,7 +10,8 @@ function setup(){
 }
 // }
 function draw(){
-    background(220);
+    background(0);
+    fill
 //     fill(random(255),random(255),random(255));
 //     rect(x,y,100);
 //     x += speed
