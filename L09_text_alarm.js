@@ -10,5 +10,7 @@ function draw(){
     textSize(40)
     textalign(CENTER)
     text("Bounce!",x,y)
-    x + speed
+    x += speed
+    y += speed
+    
 }
