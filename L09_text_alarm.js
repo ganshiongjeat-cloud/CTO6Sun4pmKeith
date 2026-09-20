@@ -52,7 +52,7 @@ function updateCountdown(){
         clearInterval(interval);
     }
     if (countdown < 1){
-        background(random(255),random(255),random(255))
+        background(random(g),random(255),random(255))
         bgMusic.play();
     }
 }
