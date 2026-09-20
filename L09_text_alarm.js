@@ -2,7 +2,8 @@ let x = 100
 let y = 100
 let speedx = 2
 let speedy = 3
-let i
+let interval;
+let countdown
 function setup(){
     createCanvas(600,400);
 }
