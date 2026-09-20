@@ -49,6 +49,7 @@ function updateCountdown(){
         clearInterval(interval);
     }
     if (countdown < 1){
-        background(random(255),random(255),background(255))
+        background(random(255),random(255),random(255))
+        plat
     }
 }
