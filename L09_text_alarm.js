@@ -49,7 +49,7 @@ function updateCountdown(){
         clearInterval(interval);
     }
     if (countdown < 1){
-        fill(random(255),random(255),random(255))
+        background(random(255),random(255),random(255))
         bgMusic.play();
     }
 }
