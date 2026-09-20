@@ -8,7 +8,7 @@ function setup(){
 }
 
 function draw(){
-
+    fill(0)
     textSize(40)
     text("Bounce!",x,y)
       x += speedx
