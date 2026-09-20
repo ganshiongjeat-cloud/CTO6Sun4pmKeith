@@ -40,7 +40,9 @@ function draw(){
 
     textSize(100)
     text(countdown, 300, 200);
-    if(key === ' ')
+    if(key === ' '){
+        countdown = 5
+    }
       }
 
 function mousePressed(){
