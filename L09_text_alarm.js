@@ -16,12 +16,6 @@ function draw(){
     if(x = 600){
         speedx = -speedx
     }
-    if(y = 400){
-        speedy = -speedy
-    }
-       if(y = 0){
-        speedy = speedy
-    }
         if(x = 0){
         speedx = speedx
     }
