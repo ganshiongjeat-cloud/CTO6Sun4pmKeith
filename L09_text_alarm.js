@@ -48,4 +48,7 @@ function updateCountdown(){
     } else {
         clearInterval(interval);
     }
+    if (countdown < 1){
+        
+    }
 }
