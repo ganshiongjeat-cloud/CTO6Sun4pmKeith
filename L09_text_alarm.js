@@ -8,14 +8,14 @@ function setup(){
 
 function draw(){
     background(220)
-    // fill(0)
-    // textSize(32)
-    // text("Bounce!",x,50)
-    //   x += speedx
+    fill(0)
+    textSize(32)
+    text("Bounce!",x,50)
+      x += speedx
 
-    // if(x > width-60 ||x-60<0){
-    //     speedx = -speedx
-    // }
+    if(x > width-60 ||x-60<0){
+        speedx = -speedx
+    }
 
     let h = hour();
     let m = minute();
