@@ -38,6 +38,7 @@ function mousePressed(){
 }
 function updateCountdown(){
     if (countdown > 0){
-        countdown -= 1
+        countdown -= 1;
+        
     }
 }
