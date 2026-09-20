@@ -54,5 +54,8 @@ function updateCountdown(){
 
     }
 function alarm(){
-    
+        r = random(r)
+        g = random(g)
+        b = random(b)
+        bgMusic.play();
 }
