@@ -19,4 +19,7 @@ function draw(){
     if(y = 400){
         speedy = -speedy
     }
+       if(y = 400){
+        speedy = -speedy
+    }
 }
