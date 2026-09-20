@@ -10,7 +10,7 @@ function setup(){
 function draw(){
     fill(0)
     textSize(32)
-    text("Bounce!",x,y)
+    text("Bounce!",x,50)
       x += speedx
 
     if(x > width-60 ||x-60<0){
