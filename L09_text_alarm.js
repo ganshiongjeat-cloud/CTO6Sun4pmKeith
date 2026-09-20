@@ -7,7 +7,7 @@ function setup(){
 
 function draw(){
     textSize(40)
-    textalign()
+    textalign(CENTER)
     text("Bounce!",x,y)
-
+    
 }
