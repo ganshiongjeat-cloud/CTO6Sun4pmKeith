@@ -22,4 +22,7 @@ function draw(){
        if(y = 0){
         speedy = speedy
     }
+        if(x = 0){
+        speedx = speedx
+    }
 }
