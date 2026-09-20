@@ -27,5 +27,8 @@ function draw(){
 
     textSize(32)
     text("Click me to start timer", width / 2, height = 50);
+
+    textSize(100)
+    text
     
 }
