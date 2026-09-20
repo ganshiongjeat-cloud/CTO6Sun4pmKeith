@@ -33,5 +33,5 @@ function draw(){
     
 }
 function mousePressed(){
-    interval = setInterval(update)
+    interval = setInterval(updateCountdown)
 }
