@@ -61,6 +61,6 @@ function alarm(){
         b = random(255)
         bgMusic.play();
               if(key ===  ' ' || key === ' '){
-         interval = setInterval(updateCountdown, 1000)
+         interval = setInterval(updateCountdown, 5000)
 }
 }
