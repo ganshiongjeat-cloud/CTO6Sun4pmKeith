@@ -49,6 +49,6 @@ function updateCountdown(){
         clearInterval(interval);
     }
     if (countdown < 1){
-        background(random)
+        background(random(255),random(255))
     }
 }
