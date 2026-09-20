@@ -51,10 +51,5 @@ function updateCountdown(){
     } else {
         clearInterval(interval);
     }
-    if (countdown < 1){
-        r = random(r)
-        g = random(g)
-        b = random(b)
-        bgMusic.play();
+
     }
-}
