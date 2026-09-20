@@ -18,5 +18,5 @@ function draw(){
     // }
 
     let h = hour();
-    let
+    let m = minute()
 }
