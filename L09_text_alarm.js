@@ -52,7 +52,7 @@ function updateCountdown(){
         countdown -= 1;
     } else {
         clearInterval(interval);
-        alarm(alarm,500);
+        alarminterval(alarm,500);
     }
 
     }
