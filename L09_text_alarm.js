@@ -12,5 +12,7 @@ function draw(){
     text("Bounce!",x,y)
     x += speed
     y += speed
-    
+    if(x = 600){
+        
+    }
 }
