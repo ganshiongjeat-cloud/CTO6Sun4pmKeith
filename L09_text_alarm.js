@@ -23,6 +23,6 @@ function draw(){
     let string = nf(h,2)+" : " + nf(m,2)+" : " + nf(s,2);
     textsize(32);
     fill("gold");
-    (string)
+    text(string,100,200);
 
 }
