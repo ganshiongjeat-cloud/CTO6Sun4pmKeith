@@ -5,6 +5,9 @@ let speedy = 3
 let interval;
 let countdown = 5
 let bgmusic;
+function preload(){
+    
+}
 function setup(){
     createCanvas(600,400);
 }
