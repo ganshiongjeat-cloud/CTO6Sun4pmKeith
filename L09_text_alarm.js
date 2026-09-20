@@ -50,6 +50,6 @@ function updateCountdown(){
     }
     if (countdown < 1){
         background(random(255),random(255),random(255))
-        
+        bgMusic.play();
     }
 }
