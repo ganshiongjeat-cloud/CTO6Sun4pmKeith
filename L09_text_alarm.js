@@ -45,7 +45,7 @@ function draw(){
         r = 220;
         g = 220;
         b = 220;
-        clearInterval(alarminterval)
+        clearInterval(alarminterval);
     }
       }
 
