@@ -13,10 +13,10 @@ function draw(){
     text("Bounce!",x,y)
       x += speedx
     y += speedy
-    if(x = 600){
+    if(x == 600){
         speedx = -speedx
     }
-        if(x = 0){
+        if(x == 0){
         speedx = speedx
     }
 }
