@@ -42,7 +42,10 @@ function draw(){
     text(countdown, 300, 200);
     if(key === ' '){
         countdown = 5;
-        r = 220
+        r = 220;
+        g = 220;
+        b = 220;
+        clearInterval(alarminterval)
     }
       }
 
