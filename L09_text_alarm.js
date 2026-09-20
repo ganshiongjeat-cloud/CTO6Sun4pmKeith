@@ -8,6 +8,6 @@ function setup(){
 function draw(){
     textSize(40)
     textalign()
-    text("Bounce!")
-    
+    text("Bounce!",x,y)
+
 }
