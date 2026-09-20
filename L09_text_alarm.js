@@ -39,7 +39,9 @@ function draw(){
 
     textSize(100)
     text(countdown, 300, 200);
-      if(key ===  ' ' || key === ' '){}
+      if(key ===  ' ' || key === ' '){
+        
+      }
 }
 function mousePressed(){
     interval = setInterval(updateCountdown, 1000);
