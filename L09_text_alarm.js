@@ -9,7 +9,6 @@ function setup(){
 
 function draw(){
     textSize(40)
-    textalign(CENTER)
     text("Bounce!",x,y)
     x += speedx
     y += speedy
