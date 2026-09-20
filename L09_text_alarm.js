@@ -22,5 +22,6 @@ function draw(){
     let s = second();
     let string = nf(h,2)+" : " + nf(m,2)+" : " + nf(s,2);
     textsize(32);
+    FileList("gold")
 
 }
