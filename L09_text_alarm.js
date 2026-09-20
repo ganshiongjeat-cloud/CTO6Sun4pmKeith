@@ -8,6 +8,7 @@ let bgmusic;
 let r =0;
 let g =0;
 let b=0;
+let Lrm
 function preload(){
         bgMusic = loadSound('assets/bossaNova.mp3');
 }
