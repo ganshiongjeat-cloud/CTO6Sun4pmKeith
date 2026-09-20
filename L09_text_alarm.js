@@ -5,6 +5,7 @@ let speedy = 3
 let interval;
 let countdown = 5
 let bgmusic;
+let 
 function preload(){
         bgMusic = loadSound('assets/bossaNova.mp3');
 }
