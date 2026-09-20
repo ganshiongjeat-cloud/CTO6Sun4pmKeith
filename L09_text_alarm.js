@@ -53,7 +53,8 @@ function updateCountdown(){
     }
     if (countdown < 1){
         r = random(r)
-        g = random
+        g = random(g)
+        b = random(b)
         bgMusic.play();
     }
 }
