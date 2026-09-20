@@ -40,10 +40,8 @@ function draw(){
     textSize(100)
     text(countdown, 300, 200);
     
-      if(key ===  ' ' || key === ' '){
-        countdown = 5
       }
-}
+
 function mousePressed(){
     interval = setInterval(updateCountdown, 1000);
 
@@ -62,4 +60,6 @@ function alarm(){
         g = random(255)
         b = random(255)
         bgMusic.play();
+              if(key ===  ' ' || key === ' '){
+        countdown = 5}
 }
