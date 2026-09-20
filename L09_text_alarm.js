@@ -17,5 +17,6 @@ function draw(){
     //     speedx = -speedx
     // }
 
-    
+    let h = hour();
+    let
 }
