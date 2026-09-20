@@ -40,7 +40,7 @@ function draw(){
 
     textSize(100)
     text(countdown, 300, 200);
-    
+    if(key === ' ')
       }
 
 function mousePressed(){
