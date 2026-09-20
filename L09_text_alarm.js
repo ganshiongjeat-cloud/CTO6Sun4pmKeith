@@ -17,6 +17,6 @@ function draw(){
         speedx = -speedx
     }
     if(y = 400){
-        speed
+        speedy = -speedy
     }
 }
