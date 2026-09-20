@@ -61,7 +61,5 @@ function alarm(){
         g = random(255)
         b = random(255)
         bgMusic.play();
-              if(key ===  ' ' || key === ' '){
-
-}
+         
 }
