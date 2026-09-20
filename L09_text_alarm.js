@@ -25,4 +25,5 @@ function draw(){
     fill("gold");
     text(string,100,200);
 
+    text
 }
