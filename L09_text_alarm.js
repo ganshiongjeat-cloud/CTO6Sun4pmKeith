@@ -26,6 +26,6 @@ function draw(){
     text(string,100,200);
 
     textSize(32)
-    text("Click me to start timer",)
+    text("Click me to start timer", width / 2)
     
 }
