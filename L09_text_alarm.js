@@ -5,7 +5,9 @@ let speedy = 3
 let interval;
 let countdown = 5
 let bgmusic;
-let r =0
+let r =0;
+let g =0
+let b=0
 function preload(){
         bgMusic = loadSound('assets/bossaNova.mp3');
 }
@@ -14,7 +16,7 @@ function setup(){
 }
 
 function draw(){
-    background(220)
+    background(r )
     fill(0)
     textSize(32)
     text("Bounce!",x,50)
