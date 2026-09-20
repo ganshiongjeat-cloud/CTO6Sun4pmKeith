@@ -4,7 +4,6 @@ let speedx = 2
 let speedy = 3
 function setup(){
     createCanvas(600,400);
-    background(220)
 }
 
 function draw(){
