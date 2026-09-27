@@ -27,6 +27,9 @@ function draw(){
 
 }
 
+function updateText(){
+    
+}
 // function countdown(){
 //     if(countdownTimer>0){
 //         countdownTimer--;
