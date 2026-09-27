@@ -29,7 +29,7 @@ function draw(){
     text(usertext,height/2,width/2)
     text(userage,height/2 - 16,width/2 + 30)
     textSize(12);
-    text("Enter name",50 , height )
+    text("Enter name",50 , height -30)
     textSize(12);
     text("Enter age",100 , 200)
 }
