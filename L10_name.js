@@ -5,7 +5,7 @@
 // let countdownID;
 let userinput;
 let usertext = "ENTER TEXT HERE";
-let userage = ""
+let userage = "ENTER AGE HERE"
 function setup(){
     createCanvas(400,400);
     userinput = createInput();
