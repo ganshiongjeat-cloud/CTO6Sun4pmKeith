@@ -38,7 +38,8 @@ function draw(){
     rect(50,150,255,165,40)
     fill(0)
     textSize(12);
-    text("pick color: ",width/2 - 119,height/2 -40)
+    text("pick background color: ",width/2 - 119,height/2 -40)
+    
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,height/2,width/2)
