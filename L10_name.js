@@ -1,6 +1,6 @@
-let r = 255
-let g = 255
-let b = 255
+let r = 220
+let g = 220
+let b = 220
 
 function setup(){
     createCanvas(600,400);
@@ -8,5 +8,5 @@ function setup(){
 
 function draw(){
     background(r,g,b)
-    
+
 }
