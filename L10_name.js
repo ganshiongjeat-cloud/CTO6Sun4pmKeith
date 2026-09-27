@@ -31,7 +31,7 @@ function draw(){
     textSize(12);
     text("Enter name",60 , height -305)
     textSize(12);
-    text("Enter age",100 , )
+    text("Enter age",80 , height - 290)
 }
 
 function updateText(){
