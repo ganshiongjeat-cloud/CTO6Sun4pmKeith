@@ -39,7 +39,7 @@ function draw(){
     fill(0)
     textSize(12);
     text("pick background color: ",width/2 - 119,height/2 -40)
-    
+    textSize(12)
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,height/2,width/2)
