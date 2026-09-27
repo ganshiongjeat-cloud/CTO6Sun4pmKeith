@@ -28,8 +28,8 @@ function draw(){
     // textAlign(CENTER,CENTER);
     // text(countdownTimer,width/2,height/2);
     background(bgcolorpicker.value());
-    fill(255);
-    
+    fill(255)
+    tect
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,height/2,width/2)
