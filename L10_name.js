@@ -24,7 +24,7 @@ function setup(){
     rectcolor = createColorPicker(220);
     rectcolor.position(110,400)
     namecolor = createColorPicker(220);
-    namecolor.position(110,400)
+    namecolor.position(110,440)
 }
 
 function draw(){
