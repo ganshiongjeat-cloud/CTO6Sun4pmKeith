@@ -3,6 +3,7 @@
 // let b = 220
 // let countdownTimer = 60;
 // let countdownID;
+let userinput;
 
 
 function setup(){
