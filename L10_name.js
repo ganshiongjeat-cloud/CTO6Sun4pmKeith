@@ -12,6 +12,7 @@ function setup(){
     userinput = createInput();
     userinput.position(width/2 - 90, height + 80)
     userinput.input(updateText);
+    ageinput
 }
 
 function draw(){
