@@ -32,7 +32,7 @@ function draw(){
     // textAlign(CENTER,CENTER);
     // text(countdownTimer,width/2,height/2);
     background(bgcolorpicker.value());
-    fill(255)
+    fill(rectcolor)
     rect(50,150,255,165,40)
     fill(0)
     textSize(12);
