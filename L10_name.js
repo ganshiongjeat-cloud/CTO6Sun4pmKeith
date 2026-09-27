@@ -30,6 +30,8 @@ function draw(){
     background(bgcolorpicker.value());
     fill(255)
     rect(50,100,250,160,50)
+    textSize(12)
+    
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,height/2,width/2)
