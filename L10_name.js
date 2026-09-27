@@ -18,6 +18,7 @@ function countdown(){
     if(countdownTimer>0){
         countdownTimer--;
         r = random(0,255);
+        
     }else{
         clearInterval(countdownID);
     }
