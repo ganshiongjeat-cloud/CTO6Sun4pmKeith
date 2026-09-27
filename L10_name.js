@@ -19,7 +19,7 @@ function draw(){
     baclground(220);
     textSize(24);
     textalign(CENTER,CENTER);
-    text(usertext,innerWidth,)
+    text(usertext,width/2)
 
 }
 
