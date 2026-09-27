@@ -31,7 +31,7 @@ function draw(){
     fill(255)
     rect(50,100,250,160,50)
     textSize(12);
-    text("pick color")
+    text("pick color: ",width)
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,height/2,width/2)
