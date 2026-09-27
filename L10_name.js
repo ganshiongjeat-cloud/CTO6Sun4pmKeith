@@ -20,7 +20,7 @@ function draw(){
     // text(countdownTimer,width/2,height/2);
     background(220);
     textSize(24);
-    textalign(CENTER,CENTER);
+    textAlign(CENTER,CENTER);
     text(usertext,width/2,height/2);
 
 
