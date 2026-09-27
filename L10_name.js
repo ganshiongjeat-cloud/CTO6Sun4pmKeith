@@ -1,8 +1,9 @@
-let r = 220
-let g = 220
-let b = 220
-let countdownTimer = 60;
-let countdownID;
+// let r = 220
+// let g = 220
+// let b = 220
+// let countdownTimer = 60;
+// let countdownID;
+
 
 function setup(){
     createCanvas(600,400);
