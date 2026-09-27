@@ -30,7 +30,7 @@ function draw(){
     text(userage,height/2,width/2)
     textSize(12);
     text("Enter name",50 , height - 70)
-    text("Enter age",50 , )
+    text("Enter age",50 , height -50)
 }
 
 function updateText(){
