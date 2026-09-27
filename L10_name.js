@@ -25,7 +25,7 @@ function draw(){
     background(220);
     textSize(24);
     textAlign(CENTER,CENTER);
-userinput.position(width/2 - 90, height + 80)
+    text(usertext)
     textSize(12);
     text("Enter name",50 , height - 70)
 
