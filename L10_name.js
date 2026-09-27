@@ -14,7 +14,7 @@ function setup(){
     userinput.input(updateText);
     ageinput = createInput();
     ageinput.position(width/2 - 90, height + 100)
-    ageinput.input(updateText);
+    ageinput.input(updateTex);
 }
 
 function draw(){
@@ -38,6 +38,7 @@ function updateText(){
     usertext = this.value()
     userage = this.value()
 }
+
 // function countdown(){
 //     if(countdownTimer>0){
 //         countdownTimer--;
