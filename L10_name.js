@@ -36,10 +36,10 @@ function draw(){
 
 function updateText(){
     usertext = this.value()
-    userage = this.value()
+
 }
 function updateTex(){
-    
+ userage = this.value()
 }
 // function countdown(){
 //     if(countdownTimer>0){
