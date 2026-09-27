@@ -23,7 +23,7 @@ function setup(){
     bgcolorpicker.position(width/2 - 90, height +150)
     rectcolor = createColorPicker(220);
     rectcolor.position(110,400)
-        rectcolor = createColorPicker(220);
+    namecolor = createColorPicker(220);
     rectcolor.position(110,400)
 }
 
