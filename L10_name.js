@@ -7,6 +7,7 @@ let userinput;
 let usertext = "ENTER NAME HERE";
 let userage = "ENTER AGE HERE";
 let ageinput;
+let bgcolorp
 function setup(){
     createCanvas(400,400);
     userinput = createInput();
