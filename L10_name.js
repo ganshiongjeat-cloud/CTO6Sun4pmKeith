@@ -8,7 +8,8 @@ let usertext = "ENTER TEXT HERE";
 
 function setup(){
     createCanvas(400,400);
-    userinput = createInput
+    userinput = createInput();
+    
 }
 
 function draw(){
