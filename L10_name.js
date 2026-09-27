@@ -11,5 +11,11 @@ function setup(){
 function draw(){
     background(r,g,b)
     setInterval( countdownID,1000)
-    
+
+}
+
+function countdown(){
+    if(countdownTimer>0){
+        
+    }
 }
