@@ -16,16 +16,17 @@ function draw(){
     // textSize(24);
     // textAlign(CENTER,CENTER);
     // text(countdownTimer,width/2,height/2);
+    
 
 }
 
-function countdown(){
-    if(countdownTimer>0){
-        countdownTimer--;
-        r = random(0,255);
-        g = random(0,255);
-        b = random(0,255);
-    }else{
-        clearInterval(countdownID);
-    }
-}
+// function countdown(){
+//     if(countdownTimer>0){
+//         countdownTimer--;
+//         r = random(0,255);
+//         g = random(0,255);
+//         b = random(0,255);
+//     }else{
+//         clearInterval(countdownID);
+//     }
+// }
