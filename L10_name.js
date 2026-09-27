@@ -7,7 +7,8 @@ let userinput;
 let usertext = "ENTER TEXT HERE";
 
 function setup(){
-    createCanvas(600,400);
+    createCanvas(400,400);
+    
 }
 
 function draw(){
@@ -20,7 +21,7 @@ function draw(){
     textSize(24);
     textalign(CENTER,CENTER);
     text(usertext,width/2,height/2);
-    
+
 
 }
 
