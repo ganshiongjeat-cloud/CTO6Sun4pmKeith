@@ -13,7 +13,7 @@ function draw(){
     countdownID = setInterval( countdownID,1000)
     textSize(24);
     textAlign(CENTER,CENTER);
-    text(count)
+    text(countdownTimer,width/2)
 
 }
 
