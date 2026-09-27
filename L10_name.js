@@ -10,5 +10,6 @@ function setup(){
 
 function draw(){
     background(r,g,b)
-    setInterval( countdown)
+    setInterval( countdownID,1000)
+    
 }
