@@ -38,7 +38,9 @@ function updateText(){
     usertext = this.value()
     userage = this.value()
 }
-
+function updateTex(){
+    
+}
 // function countdown(){
 //     if(countdownTimer>0){
 //         countdownTimer--;
