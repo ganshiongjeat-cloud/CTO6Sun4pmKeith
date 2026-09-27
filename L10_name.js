@@ -4,7 +4,7 @@
 // let countdownTimer = 60;
 // let countdownID;
 let userinput;
-
+let usertext = ""
 
 function setup(){
     createCanvas(600,400);
