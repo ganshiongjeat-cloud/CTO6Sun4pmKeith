@@ -4,18 +4,18 @@
 // let countdownTimer = 60;
 // let countdownID;
 let userinput;
-let usertext = "ENTER TEXT HERE"
+let usertext = "ENTER TEXT HERE";
 
 function setup(){
     createCanvas(600,400);
 }
 
 function draw(){
-    background(r,g,b)
-    countdownID = setInterval( countdownID,1000)
-    textSize(24);
-    textAlign(CENTER,CENTER);
-    text(countdownTimer,width/2,height/2);
+    // background(r,g,b)
+    // countdownID = setInterval( countdownID,1000)
+    // textSize(24);
+    // textAlign(CENTER,CENTER);
+    // text(countdownTimer,width/2,height/2);
 
 }
 
