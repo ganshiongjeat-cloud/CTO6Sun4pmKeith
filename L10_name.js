@@ -12,7 +12,8 @@ function draw(){
     background(r,g,b)
     countdownID = setInterval( countdownID,1000)
     textSize(24);
-    textAlign(CustomElementRegistry,CENTER)
+    textAlign(CENTER,CENTER);
+    
 
 }
 
