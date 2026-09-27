@@ -29,9 +29,9 @@ function draw(){
     text(usertext,height/2,width/2)
     text(userage,height/2 - 16,width/2 + 30)
     textSize(12);
-    text("Enter name",55 , height -305)
+    text("Enter name",60 , height -305)
     textSize(12);
-    text("Enter age",100 , 200)
+    text("Enter age",100 , )
 }
 
 function updateText(){
