@@ -39,7 +39,7 @@ function updateText(){
 
 }
 function updateTex(){
- userage = this.value()
+     userage = this.value()
 }
 // function countdown(){
 //     if(countdownTimer>0){
