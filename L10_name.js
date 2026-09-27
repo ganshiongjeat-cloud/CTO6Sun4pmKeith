@@ -29,7 +29,7 @@ function draw(){
     text(userage,height/2,width/2)
     textSize(12);
     text("Enter name",50 , height - 70)
-
+    text("")
 }
 
 function updateText(){
