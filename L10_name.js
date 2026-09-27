@@ -29,7 +29,7 @@ function draw(){
     // text(countdownTimer,width/2,height/2);
     background(bgcolorpicker.value());
     fill(255)
-    rect(50,150,250,160,50)
+    rect(50,150,255,165,50)
     textSize(12);
     text("pick color: ",width/2,height/2 -40)
     textSize(24);
