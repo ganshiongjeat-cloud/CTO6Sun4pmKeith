@@ -27,6 +27,8 @@ function draw(){
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,height/2,width/2)
+    textSize(24);
+    textAlign(CENTER,CENTER);
     text(userage,height/2 - 16,width/2 + 30)
     textSize(12);
     text("Enter name",50 , height - 70)
