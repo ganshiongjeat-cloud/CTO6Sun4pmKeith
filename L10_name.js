@@ -29,7 +29,7 @@ function draw(){
     // text(countdownTimer,width/2,height/2);
     background(bgcolorpicker.value());
     fill(255)
-    tect
+    rect(50,100,250)
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,height/2,width/2)
