@@ -4,7 +4,7 @@ let b = 220
 let textInput;
 let button;
 let textInputverb;
-let textInputB;
+let textInputadjtive;
 let textInputC;
 let textInputD;
 function setup(){
@@ -17,7 +17,7 @@ function setup(){
 
     textInputverb = createInput();
     textInputverb.position(width/2, 120)
-    textInputB = createInput();
+    textInputadjtive = createInput();
     textInputB.position(width/2, 140)
     textInputC = createInput();
     textInputC.position(width/2, 160)
