@@ -4,7 +4,7 @@ let b = 220
 let textInput;
 let button;
 let textInputA;
-let text
+let textInputB;
 function setup(){
     createCanvas(700,800)
     textInput = createInput();
