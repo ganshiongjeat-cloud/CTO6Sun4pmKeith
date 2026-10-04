@@ -14,6 +14,9 @@ function setup(){
     button = createButton("generate story");
     button.position(width/2, 135);
     button.mousePressed(updateText);
+
+    textInput = createInput();
+    textInput.position(width/2, 100)
 }
 
 function draw(){
