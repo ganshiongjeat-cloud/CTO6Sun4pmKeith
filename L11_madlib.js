@@ -9,8 +9,7 @@ let textInputC;
 let textInputD;
 function setup(){
     createCanvas(700,800)
-    textInput = createInput();
-    textInput.position(width/2, 100)
+
     button = createButton("generate story");
     button.position(width/2, 135);
     button.mousePressed(updateText);
