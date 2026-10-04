@@ -33,7 +33,7 @@ function setup(){
         "the {adj} {noun} decided to {verb} {adv} at the {place}",
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}",
         "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}",
-        
+
     ]
 
 }
@@ -49,6 +49,8 @@ function draw(){
     text("input adverb here: ",width/2-15,155);
     text("input place here: ",width/2-15,175);
     
+
+    text()
 
 }
 
