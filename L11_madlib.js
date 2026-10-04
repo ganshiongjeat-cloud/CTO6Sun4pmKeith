@@ -9,7 +9,7 @@ function setup(){
     textInput.position(width/2, 100)
     button = createButton("click me");
     button.position(width/2, 135);
-    button.mousePressed
+    button.mousePressed(updateText)
 }
 
 function draw(){
