@@ -34,7 +34,7 @@ function draw(){
     text("input adjective here: ",width/2-15,115)
     text("input verb here:",width/2 -15,135)
     text("input adverb here: ",width/2-15,155)
-    text("")
+    text("input place here")
     
 
 }
