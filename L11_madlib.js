@@ -5,7 +5,7 @@ let textInput;
 let button;
 let textInputverb;
 let textInputadjtive;
-let textInputC;
+let textInputadverb;
 let textInputD;
 function setup(){
     createCanvas(700,800)
