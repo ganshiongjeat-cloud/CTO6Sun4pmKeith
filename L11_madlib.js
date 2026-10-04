@@ -29,7 +29,9 @@ function setup(){
     textInputplace = createInput();
     textInputplace.position(width/2, 180)
 
-    
+    storyTemplates = [
+        
+    ]
 }
 
 function draw(){
