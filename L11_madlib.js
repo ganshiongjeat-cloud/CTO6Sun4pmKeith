@@ -30,7 +30,10 @@ function setup(){
     textInputplace.position(width/2, 180)
 
     storyTemplates = [
-        "the {adj} {noun} decided to {verb} {adv} at the {place}"    ]
+        "the {adj} {noun} decided to {verb} {adv} at the {place}"
+    
+    ]
+
 }
 
 function draw(){
