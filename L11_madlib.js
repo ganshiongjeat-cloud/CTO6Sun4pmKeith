@@ -31,7 +31,7 @@ function setup(){
 
     storyTemplates = [
         "the {adj} {noun} decided to {verb} {adv} at the {place}",
-        "One day, a {a"
+        "One day, a {adj} {noun}"
     ]
 
 }
