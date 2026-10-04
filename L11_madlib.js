@@ -39,7 +39,7 @@ function setup(){
     storyText = random(storyTemplates);
     storyText = storyText.replace("{noun}", "dog")
     storyText = storyText.replace("{adj}", "happy")
-      storyText = storyText.replace("{adv}", "happily")
+      storyText = storyText.replace("{adv}", "solemnly")
       storyText = storyText.replace("{verb}", "67")
         storyText = storyText.replace("{place}", "ohio")
 
