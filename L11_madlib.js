@@ -3,6 +3,7 @@ let g = 220
 let b = 220
 let textInput;
 let button;
+let button
 function setup(){
     createCanvas(700,800)
     textInput = createInput();
