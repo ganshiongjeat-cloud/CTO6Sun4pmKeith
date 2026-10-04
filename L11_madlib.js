@@ -41,5 +41,6 @@ function draw(){
 
 function updateText(){
     console.log("hello," + textInput.value())
-    console.log("" + textInput.value())
+    console.log("verb:" + textInputverb.value())
+    
 }
