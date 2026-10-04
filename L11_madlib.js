@@ -41,7 +41,7 @@ function setup(){
     storyText = storyText.replace("{adj}", "happy")
       storyText = storyText.replace("{adv}", "happily")
       storyText = storyText.replace("{verb}", "67")
-        storyText = storyText.replace("", "")
+        storyText = storyText.replace("{place}", "ohio")
 
 
 }
