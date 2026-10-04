@@ -40,7 +40,8 @@ function setup(){
     storyText = storyText.replace("{noun}", "dog")
     storyText = storyText.replace("{adj}", "happily")
       storyText = storyText.replace("{adv}", "happy")
-      storyText = storyText.replace("{verb}", "")
+      storyText = storyText.replace("{verb}", "67")
+      
 
 }
 
