@@ -16,7 +16,7 @@ function draw(){
     fill(220,0,0)
     textSize(18)
     textAlign(RIGHT,CENTER)
-    text("input ur name here: ",width/2 - 120,95)
+    text("input ur name here: ",width/2 - 15,95)
     
 
 }
