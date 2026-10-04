@@ -30,7 +30,7 @@ function setup(){
     textInputplace.position(width/2, 180)
 
     storyTemplates = [
-        "the {adj}"
+        "the {adj} {noun}"
     ]
 }
 
