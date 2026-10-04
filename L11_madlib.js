@@ -22,7 +22,7 @@ function setup(){
     textInputC = createInput();
     textInputC.position(width/2, 160)
     textInputD = createInput();
-    textInput.position(width/2, 100)
+    textInputD.position(width/2, 180)
 }
 
 function draw(){
