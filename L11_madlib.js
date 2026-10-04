@@ -41,5 +41,7 @@ function draw(){
 
 function updateText(){
     console.log("hello," + textInput.value())
-    comsole.log
+    comsole.log("" 
+    
+     )
 }
