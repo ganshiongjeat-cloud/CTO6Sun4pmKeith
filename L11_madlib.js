@@ -36,12 +36,7 @@ function setup(){
 
     ];
 
-    storyText = random(storyTemplates);
-    storyText = storyText.replace("{noun}", textInput.value())
-    storyText = storyText.replace("{adj}", textInputadjtive.value())
-    storyText = storyText.replace("{adv}", textInputadverb.value())
-    storyText = storyText.replace("{verb}", textInputverb.value())
-    storyText = storyText.replace("{place}", textInputplace.value())
+
 
 
 }
@@ -69,4 +64,11 @@ function updateText(){
         console.log("adjective: " + textInputadjtive.value())
     console.log("adverb: " + textInputadverb.value())
     console.log("place: " + textInputplace.value())    
+
+        storyText = random(storyTemplates);
+    storyText = storyText.replace("{noun}", textInput.value())
+    storyText = storyText.replace("{adj}", textInputadjtive.value())
+    storyText = storyText.replace("{adv}", textInputadverb.value())
+    storyText = storyText.replace("{verb}", textInputverb.value())
+    storyText = storyText.replace("{place}", textInputplace.value())
 }
