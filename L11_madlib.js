@@ -21,7 +21,8 @@ function setup(){
     textInputB.position(width/2, 140)
     textInputC = createInput();
     textInputC.position(width/2, 160)
-    
+    textInputD = createInput();
+    textInput.position(width/2, 100)
 }
 
 function draw(){
