@@ -43,5 +43,6 @@ function updateText(){
     console.log("hello," + textInput.value())
     console.log("verb:" + textInputverb.value())
         console.log("adjective:" + textInputadjtive.value())
-    console.log("" + textInputadverb.value())
-    }
+    console.log("adverb:" + textInputadverb.value())
+    console.log("" + textInput.value())    
+}
