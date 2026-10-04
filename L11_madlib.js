@@ -58,7 +58,8 @@ function draw(){
     text("input place here: ",width/2-15,175);
     
     fill("cyan")
-    text(storyText, width/2 +200, height/2);
+    textAlign()
+    text(storyText, width/2 , height/2);
 
 }
 
