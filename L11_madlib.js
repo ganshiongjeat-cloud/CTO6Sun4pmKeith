@@ -23,5 +23,5 @@ function draw(){
 }
 
 function updateText(){
-    console.log("hello,", )
+    console.log("hello," + text)
 }
