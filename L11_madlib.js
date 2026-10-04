@@ -5,7 +5,8 @@ let textInput;
 let button;
 let textInputA;
 let textInputB;
-let textInputC
+let textInputC;
+let textInputD;
 function setup(){
     createCanvas(700,800)
     textInput = createInput();
