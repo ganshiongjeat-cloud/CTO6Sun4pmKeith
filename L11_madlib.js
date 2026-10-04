@@ -30,7 +30,7 @@ function setup(){
     textInputplace.position(width/2, 180)
 
     storyTemplates = [
-        "the {adj} {noun} decided to {verb} {adj"
+        "the {adj} {noun} decided to {verb} {adv} at the "
     ]
 }
 
