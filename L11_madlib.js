@@ -13,6 +13,7 @@ function setup(){
 
 function draw(){
     background(r,g,b);
-    textfill
+    fill(2)
+    
 
 }
