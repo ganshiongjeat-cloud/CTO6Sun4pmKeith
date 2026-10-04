@@ -41,7 +41,7 @@ function setup(){
     storyText = storyText.replace("{adj}", textInputadjtive.value())
       storyText = storyText.replace("{adv}", textInputadverb.value())
       storyText = storyText.replace("{verb}", textInputverb.value())
-        storyText = storyText.replace("{place}", "ohio")
+        storyText = storyText.replace("{place}", textInputplace.value())
 
 
 }
