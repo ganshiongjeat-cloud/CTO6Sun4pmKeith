@@ -8,7 +8,7 @@ let textInputadjtive;
 let textInputadverb;
 let textInputplace;
 let storyText = "";
-let storyTemplates
+let storyTemplates;
 function setup(){
     createCanvas(700,800)
     textInput = createInput();
