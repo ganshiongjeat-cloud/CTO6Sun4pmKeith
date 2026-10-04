@@ -18,7 +18,7 @@ function setup(){
     textInputverb = createInput();
     textInputverb.position(width/2, 120)
     textInputadjtive = createInput();
-    textInputB.position(width/2, 140)
+    textInputadjtive.position(width/2, 140)
     textInputC = createInput();
     textInputC.position(width/2, 160)
     textInputD = createInput();
