@@ -39,9 +39,9 @@ function setup(){
     storyText = random(storyTemplates);
     storyText = storyText.replace("{noun}", textInput.value())
     storyText = storyText.replace("{adj}", textInputadjtive.value())
-      storyText = storyText.replace("{adv}", textInputadverb.value())
-      storyText = storyText.replace("{verb}", textInputverb.value())
-        storyText = storyText.replace("{place}", textInputplace.value())
+    storyText = storyText.replace("{adv}", textInputadverb.value())
+    storyText = storyText.replace("{verb}", textInputverb.value())
+    storyText = storyText.replace("{place}", textInputplace.value())
 
 
 }
