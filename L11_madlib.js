@@ -6,7 +6,7 @@ let button;
 let textInputverb;
 let textInputadjtive;
 let textInputadverb;
-let textInputD;
+let textInputplace;
 function setup(){
     createCanvas(700,800)
     textInput = createInput();
@@ -21,8 +21,8 @@ function setup(){
     textInputadjtive.position(width/2, 140)
     textInputadverb = createInput();
     textInputadverb.position(width/2, 160)
-    textInputD = createInput();
-    textInputD.position(width/2, 180)
+    textInputplace = createInput();
+    textInputplace.position(width/2, 180)
 }
 
 function draw(){
