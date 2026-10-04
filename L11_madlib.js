@@ -3,7 +3,7 @@ let g = 220
 let b = 220
 let textInput;
 let button;
-let textInputA;
+let textInputverb;
 let textInputB;
 let textInputC;
 let textInputD;
@@ -15,7 +15,7 @@ function setup(){
     button.position(width/2, 135);
     button.mousePressed(updateText);
 
-    textInputA = createInput();
+    textInputverb = createInput();
     textInputA.position(width/2, 120)
     textInputB = createInput();
     textInputB.position(width/2, 140)
