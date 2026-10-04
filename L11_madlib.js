@@ -15,7 +15,7 @@ function setup(){
     button.position(width/2, 135);
     button.mousePressed(updateText);
 
-    textInputA = createInputA();
+    textInputA = createInput();
     textInputA.position(width/2, 120)
 }
 
