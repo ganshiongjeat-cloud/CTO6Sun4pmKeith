@@ -50,7 +50,7 @@ function draw(){
     text("input place here: ",width/2-15,175);
     
 
-    text()
+    text(storyText, width/2)
 
 }
 
