@@ -44,5 +44,5 @@ function updateText(){
     console.log("verb:" + textInputverb.value())
         console.log("adjective:" + textInputadjtive.value())
     console.log("adverb:" + textInputadverb.value())
-    console.log("" + textInput.value())    
+    console.log("place:" + textInputplace.value())    
 }
