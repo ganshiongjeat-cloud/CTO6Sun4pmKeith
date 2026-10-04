@@ -41,7 +41,7 @@ function setup(){
     storyText = storyText.replace("{adj}", "happily")
       storyText = storyText.replace("{adv}", "happy")
       storyText = storyText.replace("{verb}", "67")
-      
+
 
 }
 
@@ -57,7 +57,7 @@ function draw(){
     text("input place here: ",width/2-15,175);
     
     fill("cyan")
-    text(storyText, width/2, height/2);
+    text(storyText, width/2 +40, height/2);
 
 }
 
