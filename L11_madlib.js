@@ -39,7 +39,8 @@ function setup(){
     storyText = random(storyTemplates);
     storyText = storyText.replace("{noun}", "dog")
     storyText = storyText.replace("adj", "happily")
-      storyText = storyText.replace("adv", "")
+      storyText = storyText.replace("adv", "happy")
+  storyText = storyText.replace("", "")
 
 }
 
