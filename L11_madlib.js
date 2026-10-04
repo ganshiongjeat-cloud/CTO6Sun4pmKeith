@@ -19,13 +19,17 @@ function setup(){
 
     textInputverb = createInput();
     textInputverb.position(width/2, 120)
-    textInputadjtive = createInput();
 
+    textInputadjtive = createInput();
     textInputadjtive.position(width/2, 140)
+
     textInputadverb = createInput();
     textInputadverb.position(width/2, 160)
+
     textInputplace = createInput();
     textInputplace.position(width/2, 180)
+
+    
 }
 
 function draw(){
