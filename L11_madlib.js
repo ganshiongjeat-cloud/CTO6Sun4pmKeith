@@ -1,4 +1,4 @@
-let x = 0
+let r = 220
 function setup(){
     createCanvas(400,600)
 }
