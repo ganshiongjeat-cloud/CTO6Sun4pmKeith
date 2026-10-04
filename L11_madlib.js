@@ -12,7 +12,7 @@ function setup(){
     textInput = createInput();
     textInput.position(width/2, 100)
     button = createButton("generate story");
-    button.position(width/2, 135);
+    button.position(width/2, 200);
     button.mousePressed(updateText);
 
     textInputverb = createInput();
