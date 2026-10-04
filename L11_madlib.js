@@ -49,7 +49,7 @@ function draw(){
     text("input adverb here: ",width/2-15,155);
     text("input place here: ",width/2-15,175);
     
-    fill("cyan")
+    fill("grey")
     text(storyText, width/2, height/2);
 
 }
