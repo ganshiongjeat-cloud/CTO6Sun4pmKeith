@@ -31,7 +31,7 @@ function draw(){
     textSize(18)
     textAlign(RIGHT,CENTER)
     text("input ur name here: ",width/2 - 15,95)
-    text("input adjective here: ",width)
+    text("input adjective here: ",width/2-15,115)
     
 
 }
