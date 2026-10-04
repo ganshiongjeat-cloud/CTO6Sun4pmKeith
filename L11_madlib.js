@@ -36,7 +36,7 @@ function setup(){
 
     ];
 
-    storyText = random
+    storyText = random(storyTemplates)
 
 }
 
