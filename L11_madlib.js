@@ -32,7 +32,8 @@ function draw(){
     textAlign(RIGHT,CENTER)
     text("input ur name here: ",width/2 - 15,95)
     text("input adjective here: ",width/2-15,115)
-    text("input verb here:",width/2)
+    text("input verb here:",width/2 -15,135)
+    text
     
 
 }
