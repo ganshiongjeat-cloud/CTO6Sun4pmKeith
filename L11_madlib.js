@@ -14,7 +14,7 @@ function setup(){
 function draw(){
     background(r,g,b);
     fill(220,0,0)
-    text("input ur name here ",width/2 - 110,99)
+    text("input ur name here ",width/2 - 110,95)
     
 
 }
