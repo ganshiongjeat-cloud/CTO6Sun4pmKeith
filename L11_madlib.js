@@ -38,6 +38,7 @@ function setup(){
 
     storyText = random(storyTemplates);
     storyText = storyText.replace("{noun}", "dog")
+    storyText
 
 }
 
