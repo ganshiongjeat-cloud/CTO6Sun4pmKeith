@@ -34,5 +34,5 @@ textSize(18)
 textinput("Guess the hidden word!", width/2,100);
 textSize(16)
 text("Attempts: 0",width/2,130)
-
+text("Hint")
 }
