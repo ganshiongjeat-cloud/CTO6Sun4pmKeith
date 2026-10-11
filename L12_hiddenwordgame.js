@@ -46,3 +46,6 @@ function showWord(){
     correctletter = getCorrectLetters(typedword,selectedddd)
 }
 
+function getCorrectLetters(guess,word){
+    let 
+}
