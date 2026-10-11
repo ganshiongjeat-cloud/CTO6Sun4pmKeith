@@ -48,6 +48,6 @@ function showWord(){
 
 function getCorrectLetters(guess,word){
     let correctletter = "";
-    guess = guess,toLowerCase();
+    guess = guess.toLowerCase();
     word = word
 }
