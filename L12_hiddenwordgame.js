@@ -7,4 +7,5 @@ input = createInput()
 input.position(width/2, 200)
 button = createButton("show input")
 button.position(width/2, 150)
+
 }
