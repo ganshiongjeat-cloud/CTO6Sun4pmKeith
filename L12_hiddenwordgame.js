@@ -47,5 +47,6 @@ function showWord(){
 }
 
 function getCorrectLetters(guess,word){
-    let 
+    let correctletter = "";
+    
 }
