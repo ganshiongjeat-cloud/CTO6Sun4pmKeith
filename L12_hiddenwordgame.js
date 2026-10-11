@@ -52,7 +52,7 @@ function getCorrectLetters(guess,word){
     word = word.toLowerCase();
     for(let i =0; i<guess.length; i++){
         if(word.includes(guess[i]) && !correctletter.includes(guess[i].toUpperCase())){
-            
+            correctletter += guess
         }
     }
 }
