@@ -11,7 +11,7 @@ function setup(){
     selectedddd = random(word);
 
     hint = selectedddd.charAt(0).toUpperCase()
-    for (let i =1;1<selectedddd.length; i ++){
+    for (let i =1;i<selectedddd.length; i ++){
         hint = hint +"_";
     }
 
@@ -26,5 +26,5 @@ function setup(){
 }
 
 function draw(){
-    
+
 }
