@@ -3,5 +3,5 @@ let button;
 
 function setup(){
   
-    input = createInput()
+input = createInput()
 }
