@@ -1,2 +1,6 @@
 let textinput;
-let submit
+let submitbutton;
+
+function setup(){
+    
+}
