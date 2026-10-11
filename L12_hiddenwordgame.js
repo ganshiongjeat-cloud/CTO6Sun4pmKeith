@@ -14,5 +14,5 @@ function draw(){
     fill(0)
 }
 function updateText(){
-    
+ 
 }
