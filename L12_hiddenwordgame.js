@@ -55,5 +55,5 @@ function getCorrectLetters(guess,word){
             correctletter += guess[i].toUpperCase() + " ";
         }
     }
-    
+    return correctletter;
 }
