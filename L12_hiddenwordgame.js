@@ -12,8 +12,8 @@ function setup(){
 
     hint = selectedddd.charAt(0).toUpperCase()
     for (let i =1;i<selectedddd.length; i ++){
-        hint = hint +"_";
-    }
+        hint = hint +" _ ";
+    } 
 
     textinput = createInput("");
     textinput.position(220,260)
