@@ -2,6 +2,7 @@ let input;
 let button;
 
 function setup(){
-createCanvas
+createCanvas(600,400)
 input = createInput()
+
 }
