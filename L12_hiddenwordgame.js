@@ -1,1 +1,2 @@
-let t
+let textinput;
+let sum
