@@ -1,1 +1,2 @@
-let input
+let input;
+let button;
