@@ -14,7 +14,7 @@ function setup(){
     textinput.position(220,260)
     textinput.size(80,30)
 
-    submitbutton = createInput("")
+    submitbutton = createInput("Guess")
     submitbutton.position(335,260)
     submitbutton.size(80,30)
     submitbutton.mousePressed(showWord);    
