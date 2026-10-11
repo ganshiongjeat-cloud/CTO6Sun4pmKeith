@@ -31,5 +31,5 @@ fill(0)
 textAlign(CENTER);
 
 textSize(18)
-textinput("Guess")
+textinput("Guess the hidden word!")
 }
