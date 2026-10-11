@@ -37,5 +37,5 @@ text("Attempts: 0",width/2,130)
 text("Hint: "+ hint,width/2,160)
 
 text(typedword, width/2,320)
-text("Correct Letters : "+)
+text("Correct Letters : "+ correctletter,width/2,)
 }
