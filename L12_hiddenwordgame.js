@@ -2,5 +2,6 @@ let textinput;
 let submitbutton;
 
 function setup(){
-    createCanvas
+    createCanvas(600,400)
+    selectedd
 }
