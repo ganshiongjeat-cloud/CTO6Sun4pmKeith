@@ -1,5 +1,10 @@
+let word = ["bingbing","lingling","xingxing"]
 let textinput;
 let submitbutton;
+let selectedddd;
+let typedword = "";
+let hint;
+let correctletter ="";
 
 function setup(){
     createCanvas(600,400)
@@ -18,4 +23,8 @@ function setup(){
     submitbutton.position(335,260)
     submitbutton.size(80,30)
     submitbutton.mousePressed(showWord);    
+}
+
+function draw(){
+    
 }
