@@ -43,5 +43,5 @@ text("Correct Letters : "+ correctletter,width/2,320)
 
 function showWord(){
     typedword = textinput.value()
-    
+    correctletter = get
 }
