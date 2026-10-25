@@ -1,3 +1,7 @@
+let word
+
+
+
 let textinput;
 let button;
 let displaytext = "enter text here"
