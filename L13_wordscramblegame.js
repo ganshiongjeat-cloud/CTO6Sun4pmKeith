@@ -10,6 +10,10 @@ let textinput;
 let button;
 let displaytext = "enter text here"
 
+function preload(){
+    
+}
+
 function setup(){
 createCanvas(600,400);
 
