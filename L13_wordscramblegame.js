@@ -25,7 +25,7 @@ currentword = random(words)
     rescramblebutton.style('font-size',"16px");
     button.mousePressed(rescambleWord);
 
-    submitbutton
+    submitbutton = createButton("submit")
 
 }
 
