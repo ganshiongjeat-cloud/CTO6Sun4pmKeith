@@ -72,6 +72,7 @@ function rescambleWord(){
 function checkAnswer(){
 let answer = input.value().trim().toUpperCase();
 if(answer === currentword){
+    winsound.play()
     score++;
     streak++;
     if(streak > maxstreak){
