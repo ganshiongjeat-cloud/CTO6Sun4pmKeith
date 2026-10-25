@@ -75,6 +75,6 @@ if(answer === currentword){
     scrambleword = shuffleWord(currentword)
 }else{
     streak =0;
-    
+    message ="try again";
 }
 }
