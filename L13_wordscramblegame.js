@@ -17,7 +17,7 @@ currentword = random(words)
 
     textinput = createInput("ask me ANYTHING");
     textinput.position(245, 175);
-    textinput.size(200,40);
+    textinput.size(110,30);
     textinput.style(100,30);
 
     button = createButton("display");
