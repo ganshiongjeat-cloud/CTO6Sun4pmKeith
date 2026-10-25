@@ -15,7 +15,7 @@ createCanvas(600,400)
 
 currentword = random(words)
 
-    textinput = createInput("ask me ANYTHING");
+    textinput = createInput("rescramble");
     textinput.position(245, 175);
     textinput.size(110,30);
     textinput.style('font-size',"16px");
