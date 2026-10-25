@@ -65,6 +65,7 @@ function rescambleWord(){
 function checkAnswer(){
 let answer = input.value().trim().toUpperCase();
 if(answer === currentword){
+    score++;
     
 }
 }
