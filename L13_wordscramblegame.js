@@ -27,7 +27,8 @@ currentword = random(words)
 
     submitbutton = createButton("submit");
     submitbutton.position(375,175);
-    submitbutton.size
+    submitbutton.size(100,35);
+    submitbutton
 
 }
 
