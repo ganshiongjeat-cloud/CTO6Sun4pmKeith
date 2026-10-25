@@ -37,8 +37,9 @@ function draw(){
     background(220);
     text("word scramble game!",300.60);
     textSize(18);
+    text("Random")
     text("Score" + score,300,250);
-    
+
 
 }
 function displayText(){
