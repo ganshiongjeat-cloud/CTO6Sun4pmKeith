@@ -21,5 +21,5 @@ function draw(){
 
 }
 function displaytext(){
-    displaytext = input
+    displaytext = Input.value
 }
