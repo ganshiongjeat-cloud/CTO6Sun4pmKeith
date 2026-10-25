@@ -3,7 +3,8 @@ let word = ["nathan","keith","jaden"]
 let currentword, scrambleword, rescramblebutton, submitbutton;
 let score =0;
 let streak =0;
-let 
+let maxstreak =0;
+let message =0
 
 let textinput;
 let button;
