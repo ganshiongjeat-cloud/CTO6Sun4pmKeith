@@ -65,6 +65,7 @@ function displayText(){
     displaytext = input.value();
 }
 function rescambleWord(){
+    rescra
     scrambleword = shuffleWord(currentword);
 
 }
