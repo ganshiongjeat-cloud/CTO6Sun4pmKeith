@@ -26,7 +26,8 @@ currentword = random(words)
     button.mousePressed(rescambleWord);
 
     submitbutton = createButton("submit");
-    submitbutton
+    submitbutton.position(375,175);
+    
 
 }
 
