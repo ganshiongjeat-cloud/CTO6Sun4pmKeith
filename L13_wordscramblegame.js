@@ -72,6 +72,6 @@ if(answer === currentword){
     }
     message = "correct";
     currentword = random(word)
-    scrambleword = shuffleWord
+    scrambleword = shuffleWord(currentword)
 }
 }
