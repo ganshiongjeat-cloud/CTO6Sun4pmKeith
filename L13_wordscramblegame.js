@@ -1,5 +1,5 @@
 let textinput;
-let
+let button;
 
 
 function setup(){
