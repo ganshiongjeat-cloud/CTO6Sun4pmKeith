@@ -63,5 +63,5 @@ function rescambleWord(){
 
 }
 function checkAnswer(){
-let answer = input.value().trim()
+let answer = input.value().trim().toUpperCase()
 }
