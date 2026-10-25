@@ -11,5 +11,8 @@ createCanvas(200,40)
     button = createButton("display");
     button.position(250, 160);
     button.style(100,30);
-    button.mousePressed(displaytextText);
+    button.mousePressed(displaytext);
+
 }
+
+
