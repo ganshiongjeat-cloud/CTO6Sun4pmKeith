@@ -40,7 +40,7 @@ function draw(){
     text("Random word: " + currentword,300,125);
     textSize(16);
     text("Score" + score,300,250);
-    text("Streak"+ streak + "(Max: ")
+    text("Streak"+ streak + "(Max: "+maxstreak,300,275)
 
 }
 function displayText(){
