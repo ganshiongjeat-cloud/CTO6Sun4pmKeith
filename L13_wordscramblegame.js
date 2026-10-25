@@ -60,5 +60,6 @@ function displayText(){
     displaytext = input.value();
 }
 function rescambleWord(){
-    
+
 }
+function checkAnswer()
