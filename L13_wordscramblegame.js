@@ -12,7 +12,7 @@ let displaytext = "enter text here"
 
 function preload(){
     winsound = loadSound('Assets/Win.mp3');
-    losesound
+    losesound = loadSound(Assets/Lose)
 }
 
 function setup(){
