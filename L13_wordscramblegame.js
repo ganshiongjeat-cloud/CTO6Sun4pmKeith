@@ -13,7 +13,7 @@ let displaytext = "enter text here"
 function setup(){
 createCanvas(600,400)
 
-current
+currentword = random(word)
 
     textinput = createInput("ask me ANYTHING");
     textinput.position(200, 100);
