@@ -11,7 +11,10 @@ let button;
 let displaytext = "enter text here"
 
 function setup(){
-createCanvas(200,40)
+createCanvas(600,400)
+
+current
+
     textinput = createInput("ask me ANYTHING");
     textinput.position(200, 100);
     textinput.size(200,40);
