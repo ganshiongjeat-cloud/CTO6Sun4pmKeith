@@ -68,7 +68,7 @@ if(answer === currentword){
     score++;
     streak++;
     if(streak > maxstreak){
-        
+        maxstreak = streak;
     }
 }
 }
