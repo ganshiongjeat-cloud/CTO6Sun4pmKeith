@@ -42,7 +42,7 @@ function draw(){
     textSize(16);
     text("Score" + score,300,250);
     text("Streak"+ streak + "(Max: "+maxstreak,300,275)
-    text
+    text(message,300,)
 }
 
 function shuffleWord(word){
