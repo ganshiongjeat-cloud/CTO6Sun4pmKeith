@@ -1,6 +1,6 @@
 let word = ["nathan","keith","jaden"]
 
-let currentword, scrambleword,
+let currentword, scrambleword, rescramblebutton, submitbutton
 
 let textinput;
 let button;
