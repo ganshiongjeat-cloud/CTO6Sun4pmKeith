@@ -77,4 +77,5 @@ if(answer === currentword){
     streak =0;
     message ="try again";
 }
+input.value
 }
