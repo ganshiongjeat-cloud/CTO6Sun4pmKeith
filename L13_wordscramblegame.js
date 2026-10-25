@@ -14,7 +14,7 @@ function setup(){
 createCanvas(600,400)
 
 currentword = random(words)
-scrambleword
+scrambleword = shuffleWord()
 
     textinput = createInput("enter anything");
     textinput.position(120, 175);
