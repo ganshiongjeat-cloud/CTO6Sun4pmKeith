@@ -23,7 +23,7 @@ currentword = random(words)
     rescramblebutton = createButton("rescramble");
     rescramblebutton.position(120,175);
     rescramblebutton.style('font-size',"16px");
-    button.mousePressed(rescambleword);
+    button.mousePressed(rescambleWord);
 
 }
 
