@@ -59,3 +59,6 @@ function shuffleWord(word){
 function displayText(){
     displaytext = input.value();
 }
+function rescambleWord(){
+    
+}
