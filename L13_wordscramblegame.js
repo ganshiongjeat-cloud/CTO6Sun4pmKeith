@@ -35,7 +35,7 @@ currentword = random(words)
 
 function draw(){
     background(220);
-    text(displaytext, 300,230);
+    text
 
 }
 function displayText(){
