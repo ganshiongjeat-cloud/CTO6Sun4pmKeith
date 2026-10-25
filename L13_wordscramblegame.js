@@ -6,7 +6,7 @@ function setup(){
 createCanvas(200,40)
     textinput = createInput("ask me ANYTHING");
     textinput.position(width/2, 10)
-    textinput
+    textinput.size(200,40)
     button = createButton("click me");
     button.position(width/2, 30);
     button.mousePressed(updateText);
