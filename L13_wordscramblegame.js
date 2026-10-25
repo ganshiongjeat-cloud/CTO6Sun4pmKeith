@@ -60,8 +60,8 @@ function displayText(){
 }
 function rescambleWord(){
     scrambleword = shuffleWord(currentword);
-    
+
 }
 function checkAnswer(){
-
+let answer
 }
