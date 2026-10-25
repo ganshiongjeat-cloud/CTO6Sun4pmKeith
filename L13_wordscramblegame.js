@@ -15,4 +15,6 @@ createCanvas(200,40)
 
 }
 
-
+function draw(){
+    
+}
