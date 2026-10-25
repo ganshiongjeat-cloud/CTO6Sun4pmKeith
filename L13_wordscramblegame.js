@@ -14,7 +14,7 @@ function setup(){
 createCanvas(600,400)
 
 currentword = random(words)
-scrambleword = shuffleWord()
+scrambleword = shuffleWord(currentword);
 
     textinput = createInput("enter anything");
     textinput.position(120, 175);
@@ -42,7 +42,7 @@ function draw(){
     textSize(16);
     text("Score" + score,300,250);
     text("Streak"+ streak + "(Max: "+maxstreak,300,275)
-
+    text
 }
 
 function shuffleWord(word){
