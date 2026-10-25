@@ -12,7 +12,7 @@ createCanvas(200,40)
     button = createButton("display");
     button.position(400, 160);
     button.style(100,30);
-    button.mousePressed(displaytext);
+    button.mousePressed(displayText);
 
 }
 
