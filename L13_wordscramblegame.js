@@ -27,8 +27,7 @@ scrambleword = shuffleWord(currentword);
     rescramblebutton.mousePressed(rescambleWord);
 
     submitbutton = createButton("submit");
-    submitbutton.position(200,220);
-    submitbutton.size(100,35);
+    submitbutton.position(220,220);
     submitbutton.style('font-size',"16px");
     submitbutton.mousePressed(checkAnswer)
 
