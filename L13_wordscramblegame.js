@@ -62,4 +62,6 @@ function displayText(){
 function rescambleWord(){
 
 }
-function checkAnswer()
+function checkAnswer(){
+    
+}
