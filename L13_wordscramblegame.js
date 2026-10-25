@@ -35,7 +35,8 @@ currentword = random(words)
 
 function draw(){
     background(220);
-    textinput("word scramble game!",360,)
+    textinput("word scramble game!",300.60);
+    
 
 }
 function displayText(){
