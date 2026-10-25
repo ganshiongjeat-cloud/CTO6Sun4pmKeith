@@ -82,7 +82,7 @@ if(answer === currentword){
     currentword = random(word)
     scrambleword = shuffleWord(currentword)
 }else{
-    losesound
+    losesound.play();
     streak =0;
     message ="try again";
 }
