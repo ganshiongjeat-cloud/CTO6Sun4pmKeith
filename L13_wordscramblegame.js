@@ -70,5 +70,6 @@ if(answer === currentword){
     if(streak > maxstreak){
         maxstreak = streak;
     }
+    message = "correct"
 }
 }
