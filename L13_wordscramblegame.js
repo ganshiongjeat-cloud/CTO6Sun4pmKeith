@@ -1,6 +1,6 @@
 let textinput;
 let button;
-
+let displaytext;
 
 function setup(){
 createCanvas(200,40)
