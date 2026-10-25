@@ -10,5 +10,6 @@ createCanvas(200,40)
     textinput.style(100,30);
     button = createButton("click me");
     button.position(250, 160);
+    button.style
     button.mousePressed(updateText);
 }
