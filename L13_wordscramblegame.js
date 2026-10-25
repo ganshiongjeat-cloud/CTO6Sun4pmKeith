@@ -59,7 +59,7 @@ function displayText(){
     displaytext = input.value();
 }
 function rescambleWord(){
-
+    scrambleword = shuffleWord
 }
 function checkAnswer(){
 
