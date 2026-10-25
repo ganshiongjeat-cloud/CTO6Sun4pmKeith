@@ -73,5 +73,8 @@ if(answer === currentword){
     message = "correct";
     currentword = random(word)
     scrambleword = shuffleWord(currentword)
+}else{
+    streak =0;
+    
 }
 }
