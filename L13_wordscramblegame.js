@@ -1,4 +1,4 @@
-let word
+let word = ["nathan"]
 
 
 
