@@ -37,7 +37,7 @@ function draw(){
     background(220);
     text("word scramble game!",300.60);
     textSize(18);
-    text("Random word: " + currentword,300,125);
+    text("Random word: " + scrambleword,300,125);
     textSize(16);
     text("Score" + score,300,250);
     text("Streak"+ streak + "(Max: "+maxstreak,300,275)
