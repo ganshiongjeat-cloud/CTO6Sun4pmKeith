@@ -11,7 +11,7 @@ let button;
 let displaytext = "enter text here"
 
 function setup(){
-createCanvas(600,400)
+createCanvas(600,400);
 
 currentword = random(words)
 scrambleword = shuffleWord(currentword);
