@@ -4,7 +4,7 @@ let currentword, scrambleword, rescramblebutton, submitbutton;
 let score =0;
 let streak =0;
 let maxstreak =0;
-let message =0
+let message = "";
 
 let textinput;
 let button;
