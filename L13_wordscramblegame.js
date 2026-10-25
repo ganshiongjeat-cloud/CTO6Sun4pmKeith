@@ -1,4 +1,4 @@
-let word = ["nathan","keith","jaden"]
+let words = ["nathan","keith","jaden"]
 
 let currentword, scrambleword, rescramblebutton, submitbutton;
 let score =0;
@@ -13,7 +13,7 @@ let displaytext = "enter text here"
 function setup(){
 createCanvas(600,400)
 
-currentword = random(word)
+currentword = random(words)
 
     textinput = createInput("ask me ANYTHING");
     textinput.position(200, 100);
