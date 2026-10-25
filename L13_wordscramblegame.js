@@ -3,5 +3,6 @@ let button;
 
 
 function setup(){
-createCanvas()
+createCanvas(200,40)
+
 }
