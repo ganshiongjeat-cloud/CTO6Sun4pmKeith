@@ -8,9 +8,9 @@ createCanvas(200,40)
     textinput.position(200, 100);
     textinput.size(200,40);
     textinput.style(100,30);
-    
+
     button = createButton("display");
-    button.position(250, 160);
+    button.position(400, 160);
     button.style(100,30);
     button.mousePressed(displayText);
 
