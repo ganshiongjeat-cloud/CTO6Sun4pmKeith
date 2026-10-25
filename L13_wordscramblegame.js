@@ -49,7 +49,7 @@ function shuffleWord(word){
     for(let i = arr.length -1;i>0;i--){
         let j = floor(random(i+1));
     }
-    return arr.joint
+    return arr.join('');
 }
 
 
