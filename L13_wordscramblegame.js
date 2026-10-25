@@ -11,7 +11,7 @@ createCanvas(200,40)
     button = createButton("display");
     button.position(250, 160);
     button.style(100,30);
-    button.mousePressed(displaytext);
+    button.mousePressed(displayText);
 
 }
 
@@ -20,6 +20,6 @@ function draw(){
     text(displaytext, 300,230);
 
 }
-function displaytext(){
+function displayText(){
     displaytext = input.value();
 }
