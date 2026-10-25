@@ -72,7 +72,7 @@ function rescambleWord(){
 function checkAnswer(){
 let answer = input.value().trim().toUpperCase();
 if(answer === currentword){
-    winsound.play()
+    winsound.play();
     score++;
     streak++;
     if(streak > maxstreak){
@@ -82,6 +82,7 @@ if(answer === currentword){
     currentword = random(word)
     scrambleword = shuffleWord(currentword)
 }else{
+    losesound
     streak =0;
     message ="try again";
 }
