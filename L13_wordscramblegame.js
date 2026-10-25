@@ -20,7 +20,7 @@ currentword = random(words)
     textinput.size(110,35);
     textinput.style('font-size',"16px");
 
-    button = createButton("display");
+    button = createButton("rescramble");
     button.position(400, 160);
     button.style(100,30);
     button.mousePressed(displayText);
