@@ -1,6 +1,6 @@
 let textinput;
 let button;
-let displaytext = "enter tet here"
+let displaytext = "enter text here"
 
 function setup(){
 createCanvas(200,40)
