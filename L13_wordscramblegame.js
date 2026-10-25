@@ -71,6 +71,6 @@ if(answer === currentword){
         maxstreak = streak;
     }
     message = "correct";
-    currentword = random
+    currentword = random(words)
 }
 }
