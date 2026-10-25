@@ -67,6 +67,8 @@ let answer = input.value().trim().toUpperCase();
 if(answer === currentword){
     score++;
     streak++;
-    
+    if(streak > maxstreak){
+        
+    }
 }
 }
