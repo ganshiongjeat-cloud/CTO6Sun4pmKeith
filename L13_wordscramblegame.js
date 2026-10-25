@@ -17,5 +17,9 @@ createCanvas(200,40)
 
 function draw(){
     background(220);
-    text(displaytext, )
+    text(displaytext, 300,230);
+
+}
+function displaytext(){
+    
 }
