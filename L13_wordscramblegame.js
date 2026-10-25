@@ -3,5 +3,5 @@ let button;
 
 
 function setup(){
-
+createCanvas()
 }
