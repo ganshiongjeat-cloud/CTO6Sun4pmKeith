@@ -43,6 +43,13 @@ function draw(){
     text("Streak"+ streak + "(Max: "+maxstreak,300,275)
 
 }
+
+function shuffleWord(word){
+    
+}
+
+
+
 function displayText(){
     displaytext = input.value();
 }
