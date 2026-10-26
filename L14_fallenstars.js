@@ -6,6 +6,8 @@ let numStars = 15;
 let playerX;
 let gameOver = false;
 let score = 0;
+let osc;
+let
 
 function setup(){
     createCanvas(600,400);
