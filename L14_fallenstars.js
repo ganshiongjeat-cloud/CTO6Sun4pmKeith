@@ -7,7 +7,7 @@ let playerX;
 let gameOver = false;
 let score = 0;
 let osc;
-let audioStarted = false
+let audioStarted = false;
 
 function setup(){
     createCanvas(600,400);
@@ -19,6 +19,8 @@ function setup(){
         starSpeed.push(random(1, 3));
     }
 playerX = width/2
+
+
 }
 
 function draw(){
