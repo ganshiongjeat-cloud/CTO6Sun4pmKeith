@@ -3,6 +3,7 @@ let starY = [];
 let starSize = [];
 let starSpeed = [];
 let numStars = 10;
+let playerX;
 
 function setup(){
     createCanvas(600,400);
@@ -13,7 +14,7 @@ function setup(){
         starSize.push(random(10, 20));
         starSpeed.push(random(1, 3));
     }
-    
+
 }
 
 function draw(){
