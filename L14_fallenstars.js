@@ -2,7 +2,7 @@ let starX = [];
 let starY = [];
 let starSize = [];
 let starSpeed = [];
-let numStars = 10;
+let numStars = 15;
 let playerX;
 let gameOver = false;
 let score = 0;
@@ -26,7 +26,7 @@ function draw(){
 
 if (!gameOver){
         textSize(22)
-        text("Score: " + score, 15,10)
+        text("Score: " + score, 0,15)
         for(let i = 0; i < numStars; i++){
         fill(255, 255, 0);
         ellipse(starX[i], starY[i], starSize[i]);
