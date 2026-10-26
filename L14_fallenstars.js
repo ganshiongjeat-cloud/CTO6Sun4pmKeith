@@ -52,6 +52,8 @@ if (!gameOver){
         }
 
     }
+} else{
+    fill
 }
 
 
