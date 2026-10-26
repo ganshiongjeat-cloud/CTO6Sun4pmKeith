@@ -83,3 +83,9 @@ function mousePressed(){
         audioStarted = true;
     }
 }
+
+function playRandomTone(){
+    if (audioStarted){
+        
+    }
+}
