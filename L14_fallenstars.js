@@ -25,7 +25,7 @@ function draw(){
 
 
 if (!gameOver){
-        text()
+        text("Score")
         for(let i = 0; i < numStars; i++){
         fill(255, 255, 0);
         ellipse(starX[i], starY[i], starSize[i]);
