@@ -45,7 +45,9 @@ fill(0,255,0);
 rect(playerX, height - 40, 40, 40);
 
 if (!gameOver){
-    
+    for(let i = 0; i < numStars; i++){
+        
+    }
 }
 
 
