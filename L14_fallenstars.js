@@ -33,10 +33,10 @@ function draw(){
     }
 
 if(keyIsDown(LEFT_ARROW)){
-    playerX -= 5;
+    playerX -= 7;
 }
 if(keyIsDown(RIGHT_ARROW)){
-    playerX += 5;
+    playerX += 7;
 }
 playerX = constrain(playerX, 0, width-40);
 
