@@ -59,7 +59,7 @@ rect(playerX, height - 40, 40, 40);
     fill(255,0,0);
     textSize(32);
     text("GAME OVER!", width / 2, height / 2);
-    text()
+    text("Final Score")
 }
 
 
