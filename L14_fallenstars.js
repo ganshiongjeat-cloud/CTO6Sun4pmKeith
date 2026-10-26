@@ -1,2 +1,3 @@
 let starX = [];
-let star
+let starY = [];
+let 
