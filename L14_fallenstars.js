@@ -8,6 +8,7 @@ function setup(){
     createCanvas(600,400);
 
     for (let i = 0; i < numStars; i++){
-        starX.push(random(width))
+        starX.push(random(width));
+        starY
     }
 }
