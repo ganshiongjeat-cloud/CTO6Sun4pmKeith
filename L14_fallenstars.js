@@ -76,3 +76,7 @@ rect(playerX, height - 40, 40, 40);
 
 
 }
+
+function mousePressed(){
+    
+}
