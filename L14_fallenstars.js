@@ -79,6 +79,7 @@ rect(playerX, height - 40, 40, 40);
 
 function mousePressed(){
     if (!audioStarted){
-        userStartAudio
+        userStartAudio();
+        audioStarted = true;
     }
 }
