@@ -32,5 +32,7 @@ function draw(){
         }
     }
 
-
+if(keyIsDown(LEFT_ARROW)){
+    
+}
 }
