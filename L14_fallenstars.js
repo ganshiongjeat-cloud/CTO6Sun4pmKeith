@@ -1,1 +1,2 @@
-let starX
+let starX = [];
+let star
