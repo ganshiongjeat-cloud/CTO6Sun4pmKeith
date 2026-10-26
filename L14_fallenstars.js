@@ -19,7 +19,8 @@ function draw(){
     background(0);
      
     for(let i = 0; i < numStars; i++){
-        fill(255,)
+        fill(255, 255, 0);
+        stae
     }
 
 }
