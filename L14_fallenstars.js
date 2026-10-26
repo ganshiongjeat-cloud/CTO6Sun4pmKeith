@@ -37,7 +37,7 @@ if (!gameOver){
             starX[i] = random(width);
             starSpeed[i] = random(2, 5);
             score++;
-            play
+            playRandomTone();
         }
     }
 
