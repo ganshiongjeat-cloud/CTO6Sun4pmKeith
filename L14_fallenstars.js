@@ -20,7 +20,7 @@ function draw(){
      
     for(let i = 0; i < numStars; i++){
         fill(255, 255, 0);
-        star(starX[i], starY[i], starSize[i]);
+        str(starX[i], starY[i], starSize[i]);
         starY[i] += starSpeed[i];
 
         if (starY[i] > height){
@@ -30,5 +30,5 @@ function draw(){
         }
     }
 
-    
+
 }
