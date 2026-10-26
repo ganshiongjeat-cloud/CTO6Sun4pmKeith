@@ -55,7 +55,7 @@ if (!gameOver){
 } else{
     fill(255,0,0);
     textSize(32);
-    text("")
+    text("GAME OVER U SUCK!!!", )
 }
 
 
