@@ -11,6 +11,6 @@ function setup(){
         starX.push(random(width));
         starY.push(random(-300,-50));
         starSize.push(random(10, 20));
-        starSpeed.push
+        starSpeed.push(random(1, 3));
     }
 }
