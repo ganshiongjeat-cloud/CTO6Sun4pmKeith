@@ -17,12 +17,13 @@ function setup(){
         starY.push(random(-300,-50));
         starSize.push(random(10, 20));
         starSpeed.push(random(1, 3));
+        osc = new p5.Oscillator();
+osc.start();
+osc.amp(0);
     }
 playerX = width/2
 
-osc = new p5.Oscillator();
-osc.start();
-osc.amp(0);
+
 }
 
 function draw(){
