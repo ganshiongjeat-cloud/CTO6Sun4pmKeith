@@ -33,6 +33,6 @@ function draw(){
     }
 
 if(keyIsDown(LEFT_ARROW)){
-    
+    playerX -= 5
 }
 }
