@@ -46,7 +46,9 @@ rect(playerX, height - 40, 40, 40);
 
 if (!gameOver){
     for(let i = 0; i < numStars; i++){
-        
+
+        if(starY[i]> height - 40 && starX[i] - playerX >= 0 && starX[i] - playerX <= 40){}
+
     }
 }
 
