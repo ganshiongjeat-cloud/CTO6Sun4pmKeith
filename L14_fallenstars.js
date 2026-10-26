@@ -5,6 +5,7 @@ let starSpeed = [];
 let numStars = 10;
 let playerX;
 let gameOver = false;
+let 
 
 function setup(){
     createCanvas(600,400);
@@ -56,7 +57,7 @@ rect(playerX, height - 40, 40, 40);
 } else{
     fill(255,0,0);
     textSize(32);
-    text("GAME OVER U SUCK!!!", width / 2, height / 2);
+    text("GAME OVER!", width / 2, height / 2);
 }
 
 
