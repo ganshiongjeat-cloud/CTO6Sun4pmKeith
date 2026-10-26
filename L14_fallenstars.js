@@ -5,7 +5,7 @@ let starSpeed = [];
 let numStars = 10;
 let playerX;
 let gameOver = false;
-let 
+let score = 0;
 
 function setup(){
     createCanvas(600,400);
