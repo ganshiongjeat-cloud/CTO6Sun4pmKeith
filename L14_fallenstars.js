@@ -13,6 +13,7 @@ function setup(){
         starSize.push(random(10, 20));
         starSpeed.push(random(1, 3));
     }
+    
 }
 
 function draw(){
