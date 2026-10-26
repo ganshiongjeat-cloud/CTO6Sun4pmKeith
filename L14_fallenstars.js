@@ -53,7 +53,8 @@ if (!gameOver){
 
     }
 } else{
-    fill
+    fill(255,0,0);
+    
 }
 
 
