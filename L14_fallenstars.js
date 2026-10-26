@@ -21,7 +21,8 @@ function setup(){
 playerX = width/2
 
 osc = new p5.Oscillator();
-osc.start
+osc.start();
+osc.amp(0);
 }
 
 function draw(){
