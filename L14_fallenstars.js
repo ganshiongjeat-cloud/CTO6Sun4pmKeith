@@ -10,6 +10,7 @@ function setup(){
     for (let i = 0; i < numStars; i++){
         starX.push(random(width));
         starY.push(random(-300,-50));
-        starSize.push(random(10, 20))
+        starSize.push(random(10, 20));
+        starSpeed.push
     }
 }
