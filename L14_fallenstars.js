@@ -7,7 +7,7 @@ let playerX;
 let gameOver = false;
 let score = 0;
 let osc;
-let
+let audioStarted = false
 
 function setup(){
     createCanvas(600,400);
