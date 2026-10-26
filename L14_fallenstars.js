@@ -44,7 +44,9 @@ playerX = constrain(playerX, 0, width-40);
 fill(0,255,0);
 rect(playerX, height - 40, 40, 40);
 
-
+if (!gameOver){
+    
+}
 
 
 
