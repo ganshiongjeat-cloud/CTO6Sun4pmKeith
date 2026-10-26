@@ -38,5 +38,7 @@ if(keyIsDown(LEFT_ARROW)){
 if(keyIsDown(RIGHT_ARROW)){
     playerX += 5;
 }
-playerX = constrain(playerX, 0,)
+playerX = constrain(playerX, 0, width-40);
+
+fill()
 }
