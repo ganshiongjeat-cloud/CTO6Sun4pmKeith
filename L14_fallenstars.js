@@ -54,6 +54,7 @@ rect(playerX, height - 40, 40, 40);
 
         if(starY[i]> height - 40 && starX[i] - playerX >= 0 && starX[i] - playerX <= 40){
             gameOver = true;
+            osc
         }
 
     }
