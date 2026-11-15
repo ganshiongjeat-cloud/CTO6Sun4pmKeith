@@ -30,11 +30,13 @@ let isGrounded = false;
 
 function setup(){
     createCanvas(600,400);
-    background(0)
+
     
 }
 
 function draw(){
+    background(0)
+
     textAlign(CENTER,CENTER)
     textSize(20)
     fill(255)
