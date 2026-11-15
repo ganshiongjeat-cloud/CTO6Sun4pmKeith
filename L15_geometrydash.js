@@ -72,7 +72,9 @@ for(let i = 0;i < spikeX.length; i++){
     }
     triangle(spikeX[i], height, spikeX[i] + spikewidth / 2, height - spikeHeight, spikeX[i] + spikewidth, height)
 }
-
+if(spikeX = 15){
+    
+}
     
 }
 
