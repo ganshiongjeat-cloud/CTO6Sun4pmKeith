@@ -18,5 +18,5 @@ function setup(){
 function draw(){
     circle(circleX,circleY,circleSize)
 
-    circleX =
+    circleX -= circleSpeed
 }
