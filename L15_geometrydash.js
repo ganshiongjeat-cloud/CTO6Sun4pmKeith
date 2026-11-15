@@ -72,7 +72,7 @@ if(
     text("press Space to jump",300,50)
     text("score: " +score,300,70)
 
-    if(spikeX <= playerX){
+    if(spikeX[i] <= playerX){
         score += 1
     }
     velocity += 0.8;
