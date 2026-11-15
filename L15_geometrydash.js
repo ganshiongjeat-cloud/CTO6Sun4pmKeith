@@ -48,14 +48,14 @@ function draw(){
     if(!gameover){
         fill(255,0,0);
         for(let i = 0; i < spikeX.length;i++){
-            for(let i = 0;i < spikeX.length; i++){
+      
     spikeX[i] -= spikeSpeed;
 
     if(spikeX[i] < -spikewidth){
         spikeX[i] = width + random(100,300);
     }
     triangle(spikeX[i], height, spikeX[i] + spikewidth / 2, height - spikeHeight, spikeX[i] + spikewidth, height)
-}
+
 if(
     playerX + playerSIze > spikeX[i] &&
     playerX < spikeX[i] + spikewidth &&
