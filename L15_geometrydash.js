@@ -72,7 +72,7 @@ if(
     text("press Space to jump",300,50)
     text("score: " +score,300,70)
 
-    if(spikeX[i] <= playerX){
+    if(spikeX <= playerX){
         score += 1
     }
     velocity += 0.8;
@@ -96,7 +96,7 @@ fill(255,0,0);
 
 
 function keyPressed(){
-    if(key === ' ' && isGrounded){
+    if(key === ' ' && isGrounded && !gameover){
         velocity = -12;
     }
 }
