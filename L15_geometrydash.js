@@ -44,6 +44,7 @@ function setup(){
 
 function draw(){
     background(0)
+    
 
     textAlign(CENTER,CENTER)
     textSize(20)
@@ -73,7 +74,7 @@ for(let i = 0;i < spikeX.length; i++){
     triangle(spikeX[i], height, spikeX[i] + spikewidth / 2, height - spikeHeight, spikeX[i] + spikewidth, height)
 }
 if(spikeX = 15){
-    
+    score += 1
 }
     
 }
