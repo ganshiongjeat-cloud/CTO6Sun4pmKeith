@@ -30,4 +30,6 @@ function setup(){
     
 }
 
-
+function draw(){
+    Text("")
+}
