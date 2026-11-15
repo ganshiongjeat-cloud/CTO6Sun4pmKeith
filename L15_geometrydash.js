@@ -67,7 +67,7 @@ if(
     } else{
         fill(255,0,0);
         textSize(32);
-        text("")
+        text("Game Over!", width)
     }
 
     textAlign(CENTER,CENTER)
