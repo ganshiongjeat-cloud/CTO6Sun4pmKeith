@@ -46,6 +46,6 @@ function draw(){
     if(playerY >= height - playerSIze){
         playerY = height - playerSIze;
         isGrounded = true;
-        
+        velocity = 0;
     }
 }
