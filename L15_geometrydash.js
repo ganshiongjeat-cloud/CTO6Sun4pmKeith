@@ -31,7 +31,7 @@ function setup(){
 }
 
 function draw(){
-    textAlign(CustomElementRegistry,CENTER)
+    textAlign(CENTER,CENTER)
     fill(255)
-    text("press Space to jump",300,300)
+    text("press Space to jump",300,100)
 }
