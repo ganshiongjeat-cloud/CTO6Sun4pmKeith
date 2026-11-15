@@ -62,7 +62,10 @@ function draw(){
 fill(0,255,0);
 rect(playerX , playerY , playerSIze , playerSIze);
 
-fill
+fill(255,0,0);
+for(let i = 0;i < spikeX.length; i++){
+    
+}
     
 }
 
