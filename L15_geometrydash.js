@@ -32,7 +32,7 @@ function setup(){
 
 function draw(){
     textAlign(CENTER,CENTER)
-    textS
+    textSize(20)
     fill(255)
     text("press Space to jump",300,50)
 }
