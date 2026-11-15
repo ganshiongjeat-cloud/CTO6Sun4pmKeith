@@ -45,7 +45,10 @@ function setup(){
 function draw(){
     background(0)
 
-    if(!gameover)
+    if(!gameover){
+        fill(255,0,0);
+        
+    }
 
     textAlign(CENTER,CENTER)
     textSize(20)
