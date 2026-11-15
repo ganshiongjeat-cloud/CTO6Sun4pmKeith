@@ -57,6 +57,6 @@ rect(playerX,playerY,playerSIze,playerSIze);
 
 function keyPressed(){
     if(key === ' ' && isGrounded){
-        velocity
+        velocity = -12;
     }
 }
