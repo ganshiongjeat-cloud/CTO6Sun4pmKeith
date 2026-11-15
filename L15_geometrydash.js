@@ -40,5 +40,5 @@ function draw(){
     fill(255)
     text("press Space to jump",300,50)
 
-    
+    velocity += 0.8
 }
