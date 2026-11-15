@@ -32,5 +32,5 @@ function setup(){
 
 function draw(){
     fill(255)
-    Text("press Space to jump",300,300)
+    text("press Space to jump",300,300)
 }
