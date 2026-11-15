@@ -50,6 +50,7 @@ function draw(){
     } else{
         isGrounded = false;
     }
-
+fill(0,255,0);
+rect
     
 }
