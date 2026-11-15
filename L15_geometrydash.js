@@ -24,7 +24,8 @@
 // }
 let playerX = 100;
 let playerY;
-let player
+let playerSIze = 30;
+
 
 function setup(){
     createCanvas(600,400);
