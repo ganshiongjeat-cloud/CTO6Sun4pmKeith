@@ -16,5 +16,7 @@ function setup(){
 }
 
 function draw(){
-    circle(circleX,circleY,)
+    circle(circleX,circleY,circleSize)
+
+    circle
 }
