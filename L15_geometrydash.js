@@ -64,7 +64,11 @@ rect(playerX , playerY , playerSIze , playerSIze);
 
 fill(255,0,0);
 for(let i = 0;i < spikeX.length; i++){
-    spikeX[i] -= spikeSpeed
+    spikeX[i] -= spikeSpeed;
+
+    if(spikeX[i] < -spikewidth){
+        
+    }
 }
     
 }
