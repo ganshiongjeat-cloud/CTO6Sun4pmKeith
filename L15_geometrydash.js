@@ -47,7 +47,7 @@ function draw(){
 
     if(!gameover){
         fill(255,0,0);
-        
+        for(let i = 0; i < spikeX.length;i++){
             for(let i = 0;i < spikeX.length; i++){
     spikeX[i] -= spikeSpeed;
 
@@ -63,7 +63,7 @@ if(
 ) {
     gameover = true
 }
-        
+        }
     }
 
     textAlign(CENTER,CENTER)
