@@ -61,7 +61,7 @@ if(
     playerX < spikeX[i] + spikewidth &&
     playerY + playerSIze > height - spikeHeight
 ) {
-    
+    gameover = true
 }
         }
     }
