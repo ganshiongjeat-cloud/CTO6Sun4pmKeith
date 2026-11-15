@@ -22,7 +22,7 @@
 
 //     circleX -= circleSpeed
 // }
-
+let player
 
 function setup(){
     createCanvas(600,400);
