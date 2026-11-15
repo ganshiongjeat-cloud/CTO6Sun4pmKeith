@@ -67,7 +67,7 @@ for(let i = 0;i < spikeX.length; i++){
     spikeX[i] -= spikeSpeed;
 
     if(spikeX[i] < -spikewidth){
-        spikeX[i] = width
+        spikeX[i] = width + RTCEncodedAudioFrame(100,300);
     }
 }
     
