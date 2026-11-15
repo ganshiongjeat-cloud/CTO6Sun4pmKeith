@@ -64,6 +64,8 @@ if(
     gameover = true
 }
         }
+    } else{
+        fill(255,0,0)
     }
 
     textAlign(CENTER,CENTER)
