@@ -37,7 +37,7 @@ function setup(){
     createCanvas(600,400);
 
     for(let i = 0; i<3;i++){
-        dpikesX
+        spikeX.push(eidth)
     }
 }
 
