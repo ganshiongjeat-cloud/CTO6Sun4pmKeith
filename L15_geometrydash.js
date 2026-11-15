@@ -70,6 +70,7 @@ for(let i = 0;i < spikeX.length; i++){
         spikeX[i] = width + RTCEncodedAudioFrame(100,300);
     }
 }
+triangle
     
 }
 
