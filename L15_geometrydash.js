@@ -9,5 +9,6 @@ function setup(){
     createCanvas(400,300);
 
     circleColour = [color(255,0,0),color(0,255,0),color(0,0,255)];
-    
+
+    for(let i = 0; i <numCircle; i++)
 }
