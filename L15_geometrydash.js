@@ -44,7 +44,7 @@ function setup(){
 
 function draw(){
     background(0)
-    text(score,)
+    text(score,300,70)
 
     textAlign(CENTER,CENTER)
     textSize(20)
