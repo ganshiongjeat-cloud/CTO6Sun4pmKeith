@@ -23,7 +23,7 @@
 //     circleX -= circleSpeed
 // }
 let playerX = 100;
-let playerY;
+let playerY = 400;
 let playerSIze = 30;
 let velocity = 0;
 let isGrounded = false;
