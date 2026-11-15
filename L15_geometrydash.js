@@ -67,7 +67,7 @@ for(let i = 0;i < spikeX.length; i++){
     spikeX[i] -= spikeSpeed;
 
     if(spikeX[i] < -spikewidth){
-        spikeX[i] = width + RTCEncodedAudioFrame(100,300);
+        spikeX[i] = width + random(100,300);
     }
     triangle(spikeX[i], height, spikeX[i] + spikewidth / 2, height - spikeHeight, spikeX[i] + spikewidth, height)
 }
