@@ -51,7 +51,7 @@ function draw(){
         isGrounded = false;
     }
 fill(0,255,0);
-rect(playerX,playerY,playerSIze,playerSIze);
+rect(playerX , playerY , playerSIze , playerSIze);
     
 }
 
