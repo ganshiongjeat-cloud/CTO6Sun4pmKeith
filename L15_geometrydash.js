@@ -65,7 +65,8 @@ if(
 }
         }
     } else{
-        fill(255,0,0)
+        fill(255,0,0);
+        textSize()
     }
 
     textAlign(CENTER,CENTER)
