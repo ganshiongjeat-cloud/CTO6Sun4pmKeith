@@ -31,5 +31,5 @@ function setup(){
 }
 
 function draw(){
-    Text("")
+    Text("press Space to jump")
 }
