@@ -41,5 +41,9 @@ function draw(){
     text("press Space to jump",300,50)
 
     velocity += 0.8;
-    playerY += velocity
+    playerY += velocity;
+
+    if(playerY >= height - playerSIze){
+        
+    }
 }
