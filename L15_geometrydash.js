@@ -17,7 +17,7 @@ function setup(){
 
 function draw(){
 for(let i = 0; i < numCircle; i++){
-    circle(circleX)
+    circle(circleX,circleY,circleSize)
 }
 
     circleX -= circleSpeed
