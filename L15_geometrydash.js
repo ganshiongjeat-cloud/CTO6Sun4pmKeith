@@ -50,7 +50,7 @@ function draw(){
     textSize(20)
     fill(255)
     text("press Space to jump",300,50)
-    text(core,300,70)
+    text("score: " +score,300,70)
 
     velocity += 0.8;
     playerY += velocity;
