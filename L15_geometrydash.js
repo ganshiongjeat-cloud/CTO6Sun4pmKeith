@@ -50,8 +50,8 @@ function draw(){
     fill(255)
     text("press Space to jump",300,50)
     text("score: " +score,300,70)
-    
-    if(spikeX < playerX){
+
+    if(spikeX <= playerX){
         score += 1
     }
     velocity += 0.8;
