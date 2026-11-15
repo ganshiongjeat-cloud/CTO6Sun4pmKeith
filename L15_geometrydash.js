@@ -28,7 +28,8 @@ let playerSIze = 30;
 let velocity = 0;
 let isGrounded = false;
 let spikeX = [];
-let spikewidth
+let spikewidth = 20;
+
 
 function setup(){
     createCanvas(600,400);
