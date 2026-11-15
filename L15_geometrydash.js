@@ -25,6 +25,7 @@
 let playerX = 100;
 let playerY;
 let playerSIze = 30;
+let velocity = 0;
 
 
 function setup(){
