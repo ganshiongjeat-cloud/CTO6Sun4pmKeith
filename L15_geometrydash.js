@@ -39,4 +39,6 @@ function draw(){
     textSize(20)
     fill(255)
     text("press Space to jump",300,50)
+
+    
 }
