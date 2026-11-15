@@ -29,7 +29,8 @@ let velocity = 0;
 let isGrounded = false;
 let spikeX = [];
 let spikewidth = 20;
-
+let spikeHeight = 30;
+let 
 
 function setup(){
     createCanvas(600,400);
