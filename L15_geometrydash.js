@@ -37,7 +37,7 @@ function setup(){
     createCanvas(600,400);
 
     for(let i = 0; i<3;i++){
-        spikeX.push(eidth)
+        spikeX.push(width + i * 300);
     }
 }
 
